@@ -6,3 +6,5 @@ firebase-admin
 mediatr
 python-dotenv
 flask-problem-details
+google-cloud-firestore
+packaging

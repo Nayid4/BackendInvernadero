@@ -1,4 +1,5 @@
 from mediatr import Mediator
+from application.usuarios.commands.create_usuario.dto import CreateUsuarioDTO
 from domain.usuario import Usuario
 from infrastructure.repositories.usuario_repository import UsuarioRepository
 from werkzeug.security import generate_password_hash
@@ -6,7 +7,7 @@ import uuid
 
 @Mediator.handler
 class CreateUsuarioHandler:
-    def handle(self, request):
+    def handle(self, request: CreateUsuarioDTO):
         usuario_id = str(uuid.uuid4())
         usuario = Usuario(
             id=usuario_id,

@@ -57,6 +57,7 @@ class UsuarioRepository:
         for doc in docs:
             data = doc.to_dict()
             usuarios.append({
+                "id": data.get('id'),
                 "nombre": data.get('nombre'),
                 "apellido": data.get('apellido'),
                 "telefono": data.get('telefono'),

@@ -1,9 +1,10 @@
 from mediatr import Mediator
+from application.usuarios.commands.update_usuario.dto import UpdateUsuarioDTO
 from infrastructure.repositories.usuario_repository import UsuarioRepository
 
 @Mediator.handler
 class UpdateUsuarioHandler:
-    def handle(self, request):
+    def handle(self, request: UpdateUsuarioDTO):
         repo = UsuarioRepository()
         usuario = repo.obtener_usuario_por_id(request.id)
         if not usuario:

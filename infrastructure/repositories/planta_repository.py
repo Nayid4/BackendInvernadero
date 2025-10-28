@@ -15,8 +15,7 @@ class PlantaRepository:
             "nombre": planta.nombre,
             "especie": planta.especie,
             "fecha_siembra": planta.fecha_siembra,
-            "ubicacion": planta.ubicacion,
-            "usuario_id": planta.usuario_id
+            "ubicacion": planta.ubicacion
         })
 
     def obtener_planta_por_id(self, planta_id: str) -> Optional[Planta]:
@@ -28,8 +27,7 @@ class PlantaRepository:
                 nombre=data['nombre'],
                 especie=data['especie'],
                 fecha_siembra=data['fecha_siembra'],
-                ubicacion=data['ubicacion'],
-                usuario_id=data.get('usuario_id')
+                ubicacion=data['ubicacion']
             )
         return None
 
@@ -46,7 +44,6 @@ class PlantaRepository:
                 "nombre": data.get('nombre'),
                 "especie": data.get('especie'),
                 "fecha_siembra": data.get('fecha_siembra'),
-                "ubicacion": data.get('ubicacion'),
-                "usuario_id": data.get('usuario_id')
+                "ubicacion": data.get('ubicacion')
             })
         return plantas

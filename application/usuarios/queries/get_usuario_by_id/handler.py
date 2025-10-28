@@ -1,18 +1,12 @@
 from mediatr import Mediator
+from application.usuarios.queries.get_usuario_by_id.dto import GetUsuarioByIdDTO
 from infrastructure.repositories.usuario_repository import UsuarioRepository
 
 @Mediator.handler
+@Mediator.handler
 class GetUsuarioByIdHandler:
-    def handle(self, request):
+    def handle(self, request: GetUsuarioByIdDTO):
         repo = UsuarioRepository()
         usuario = repo.obtener_usuario_por_id(request.id)
-        if usuario:
-            return {
-                "id": usuario.id,
-                "nombre": usuario.nombre,
-                "apellido": usuario.apellido,
-                "telefono": usuario.telefono,
-                "rol": usuario.rol,
-                "correo": usuario.correo
-            }
-        return None
+        return usuario  # Instancia de Usuario o None
+

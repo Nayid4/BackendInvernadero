@@ -1,11 +1,12 @@
 from mediatr import Mediator
+from application.usuarios.queries.login.dto import LoginUsuarioDTO
 from infrastructure.repositories.usuario_repository import UsuarioRepository
 from werkzeug.security import check_password_hash
 from flask_jwt_extended import create_access_token, create_refresh_token
 
 @Mediator.handler
 class LoginUsuarioHandler:
-    def handle(self, request):
+    def handle(self, request: LoginUsuarioDTO):
         repo = UsuarioRepository()
         usuario = repo.obtener_usuario_por_correo(request.correo)
         if not usuario:
