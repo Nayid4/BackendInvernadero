@@ -1,0 +1,8 @@
+Flask
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-Migrate
+firebase-admin
+mediatr
+python-dotenv
+flask-problem-details
