@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify
 from mediatr import Mediator
-from flask_jwt_extended import get_jwt_identity, jwt_required
+from flask_jwt_extended import create_access_token, get_jwt_identity, jwt_required
 from flask_problem_details import problem_details
 
 from application.usuarios.commands.create_usuario.dto import CreateUsuarioDTO
@@ -25,6 +25,13 @@ def login():
             status=401,
             detail=str(e)
         ), 401
+    
+@usuario_bp.route('/refresh', methods=['POST'])
+@jwt_required(refresh=True)
+def refresh():
+    usuario_id = get_jwt_identity()
+    access_token = create_access_token(identity=usuario_id)
+    return jsonify(access_token=access_token), 200
 
 @usuario_bp.route('/me', methods=['GET'])
 @jwt_required()

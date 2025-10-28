@@ -1,7 +1,7 @@
 from mediatr import Mediator
 from infrastructure.repositories.usuario_repository import UsuarioRepository
 from werkzeug.security import check_password_hash
-from flask_jwt_extended import create_access_token
+from flask_jwt_extended import create_access_token, create_refresh_token
 
 @Mediator.handler
 class LoginUsuarioHandler:
@@ -13,8 +13,10 @@ class LoginUsuarioHandler:
         if not check_password_hash(usuario.contrasena_hash, request.contrasena):
             raise Exception("Usuario o contraseña incorrectos")
         access_token = create_access_token(identity=usuario.id)
+        refresh_token = create_refresh_token(identity=usuario.id)
         return {
             "access_token": access_token,
+            "refresh_token": refresh_token,
             "usuario": {
                 "id": usuario.id,
                 "nombre": usuario.nombre,

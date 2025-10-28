@@ -6,11 +6,15 @@ from app.controllers.usuario_controller import usuario_bp
 from app.controllers.planta_controller import planta_bp
 from dotenv import load_dotenv
 import os
+import datetime
 
 load_dotenv()
 
 app = Flask(__name__)
-app.config['JWT_SECRET_KEY'] = os.getenv('JWT_SECRET_KEY')
+app.config["JWT_SECRET_KEY"] = os.getenv("JWT_SECRET_KEY")
+app.config["JWT_ACCESS_TOKEN_EXPIRES"] = datetime.timedelta(minutes=15)
+app.config["JWT_REFRESH_TOKEN_EXPIRES"] = datetime.timedelta(days=30)
+
 jwt = JWTManager(app)
 ProblemDetails(app)
 
