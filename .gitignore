@@ -1,0 +1,40 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Python dotenv
+.env
+
+# Firebase Keys
+*.json
+
+# Pytest, coverage, builds
+*.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+*.tar
+docker-compose.override.yml
+
+# Test/Temp files
+tmp/
+temp/

@@ -1,8 +1,9 @@
 from mediatr import Mediator
-from infrastructure.firebase.firebase_repository import FirebaseUsuarioRepository
+from infrastructure.repositories.usuario_repository import UsuarioRepository
 
 @Mediator.handler
 class GetAllUsuariosHandler:
     def handle(self, request):
-        repo = FirebaseUsuarioRepository()
-        return repo.obtener_todos_los_usuarios()
+        repo = UsuarioRepository()
+        usuarios = repo.obtener_todos_los_usuarios()
+        return usuarios

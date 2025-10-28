@@ -1,12 +1,14 @@
-from flask import Blueprint, request, jsonify, abort
+from flask import Blueprint, request, jsonify
 from mediatr import Mediator
 from flask_jwt_extended import get_jwt_identity, jwt_required
 from flask_problem_details import problem_details
+
 from application.usuarios.commands.create_usuario.dto import CreateUsuarioDTO
 from application.usuarios.commands.delete_usuario.dto import DeleteUsuarioDTO
 from application.usuarios.commands.update_usuario.dto import UpdateUsuarioDTO
 from application.usuarios.queries.get_all_usuarios.handler import GetAllUsuariosHandler
-from application.usuarios.queries.get_usuario_by_email.dto import GetUsuarioByEmailDTO
+from application.usuarios.queries.get_usuario_by_id.dto import GetUsuarioByIdDTO
+from application.usuarios.queries.get_usuario_by_correo.dto import GetUsuarioByCorreoDTO
 from application.usuarios.queries.login.dto import LoginUsuarioDTO
 
 usuario_bp = Blueprint('usuario', __name__)
@@ -27,8 +29,8 @@ def login():
 @usuario_bp.route('/me', methods=['GET'])
 @jwt_required()
 def me():
-    correo = get_jwt_identity()
-    dto = GetUsuarioByEmailDTO(correo)
+    usuario_id = get_jwt_identity()
+    dto = GetUsuarioByIdDTO(usuario_id)
     usuario = Mediator.send(dto)
     if not usuario:
         return problem_details(
@@ -36,7 +38,14 @@ def me():
             status=404,
             detail="No se encontró el usuario asociado al token"
         ), 404
-    return jsonify(usuario), 200
+    return jsonify({
+        "id": usuario.id,
+        "nombre": usuario.nombre,
+        "apellido": usuario.apellido,
+        "telefono": usuario.telefono,
+        "correo": usuario.correo,
+        "rol": usuario.rol
+    }), 200
 
 @usuario_bp.route('/', methods=['POST'])
 def register():
@@ -50,11 +59,11 @@ def register():
             detail=str(e)
         ), 400
 
-@usuario_bp.route('/<correo>', methods=['PUT'])
+@usuario_bp.route('/<id>', methods=['PUT'])
 @jwt_required()
-def update(correo):
+def update(id):
     try:
-        dto = UpdateUsuarioDTO(correo=correo, **request.json)
+        dto = UpdateUsuarioDTO(id=id, **request.json)
         return jsonify(Mediator.send(dto)), 200
     except Exception as e:
         return problem_details(
@@ -63,11 +72,11 @@ def update(correo):
             detail=str(e)
         ), 400
 
-@usuario_bp.route('/<correo>', methods=['DELETE'])
+@usuario_bp.route('/<id>', methods=['DELETE'])
 @jwt_required()
-def delete(correo):
+def delete(id):
     try:
-        dto = DeleteUsuarioDTO(correo)
+        dto = DeleteUsuarioDTO(id)
         Mediator.send(dto)
         return '', 204
     except Exception as e:
@@ -77,10 +86,10 @@ def delete(correo):
             detail=str(e)
         ), 400
 
-@usuario_bp.route('/<correo>', methods=['GET'])
+@usuario_bp.route('/by-email/<correo>', methods=['GET'])
 @jwt_required()
 def get_by_email(correo):
-    dto = GetUsuarioByEmailDTO(correo)
+    dto = GetUsuarioByCorreoDTO(correo)
     usuario = Mediator.send(dto)
     if not usuario:
         return problem_details(
@@ -88,7 +97,14 @@ def get_by_email(correo):
             status=404,
             detail="No existe un usuario con ese correo"
         ), 404
-    return jsonify(usuario), 200
+    return jsonify({
+        "id": usuario.id,
+        "nombre": usuario.nombre,
+        "apellido": usuario.apellido,
+        "telefono": usuario.telefono,
+        "correo": usuario.correo,
+        "rol": usuario.rol
+    }), 200
 
 @usuario_bp.route('/', methods=['GET'])
 @jwt_required()

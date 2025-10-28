@@ -1,9 +1,9 @@
 from mediatr import Mediator
-from infrastructure.firebase.firebase_repository import FirebaseUsuarioRepository
+from infrastructure.repositories.usuario_repository import UsuarioRepository
 
 @Mediator.handler
 class DeleteUsuarioHandler:
     def handle(self, request):
-        repo = FirebaseUsuarioRepository()
-        repo.eliminar_usuario(request.correo)
+        repo = UsuarioRepository()
+        repo.eliminar_usuario(request.id)
         return {"success": True}
