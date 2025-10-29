@@ -1,5 +1,5 @@
 from domain.planta import Planta
-from infrastructure.firebase.firebase_client import db
+from infrastructure.firebase.firebase_client import firestore_db as db
 from typing import List, Optional
 import uuid
 

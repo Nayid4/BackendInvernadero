@@ -8,6 +8,7 @@ from flask_jwt_extended import JWTManager
 from flask_problem_details import configure_app
 from app.controllers.usuario_controller import usuario_bp
 from app.controllers.planta_controller import planta_bp
+from app.controllers.abanico_controller import abanico_bp
 import os
 import datetime
 
@@ -21,6 +22,7 @@ configure_app(app)  # Esto registra el middleware para ProblemDetails RFC 7807
 
 app.register_blueprint(usuario_bp, url_prefix='/api/users')
 app.register_blueprint(planta_bp, url_prefix='/api/plantas')
+app.register_blueprint(abanico_bp, url_prefix='/api/abanico')
 
 if __name__ == "__main__":
     app.run(debug=True)
