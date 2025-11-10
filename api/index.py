@@ -1,6 +1,16 @@
 from dotenv import load_dotenv
 load_dotenv()
 
+# --- INICIO DE SOLUCIÓN DE RUTA ---
+import sys
+import os
+# Agregamos la carpeta padre (la raíz del proyecto) a la ruta de búsqueda.
+# Esto es necesario porque index.py ahora está en la carpeta 'api'.
+sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
+# --- FIN DE SOLUCIÓN DE RUTA ---
+
+
+# Asegúrate de que esta línea esté antes de importar los controladores
 import mediator_handlers_init
 
 from flask import Flask
