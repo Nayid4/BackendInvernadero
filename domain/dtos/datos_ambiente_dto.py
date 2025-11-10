@@ -1,8 +1,11 @@
 from dataclasses import dataclass
+from typing import Optional
 
 @dataclass
 class DatosAmbienteDTO:
-    timestamp: str
+    id: str
+    fecha: str
+    planta: str
     temperatura: float
-    humedad_ambiental: float
+    humedad_aire: float
     humedad_suelo: float

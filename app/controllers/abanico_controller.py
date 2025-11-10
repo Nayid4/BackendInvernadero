@@ -9,7 +9,7 @@ from application.abanico.queries.get_historico.dto import GetHistoricoDTO
 abanico_bp = Blueprint('abanico', __name__)
 
 @abanico_bp.route('/consultar', methods=['GET'])
-@jwt_required()
+#@jwt_required()
 def consultar():
     try:
         dto = ConsultarAbanicoDTO()
@@ -33,7 +33,7 @@ def consultar():
         )
 
 @abanico_bp.route('/historico', methods=['GET'])
-@jwt_required()
+#@jwt_required()
 def consultar_historico():
     dto = GetHistoricoDTO()
     try:

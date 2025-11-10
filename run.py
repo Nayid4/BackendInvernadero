@@ -20,9 +20,9 @@ app.config["JWT_REFRESH_TOKEN_EXPIRES"] = datetime.timedelta(days=30)
 jwt = JWTManager(app)
 configure_app(app)  # Esto registra el middleware para ProblemDetails RFC 7807
 
-app.register_blueprint(usuario_bp, url_prefix='/api/users')
-app.register_blueprint(planta_bp, url_prefix='/api/plantas')
-app.register_blueprint(abanico_bp, url_prefix='/api/abanico')
+app.register_blueprint(usuario_bp, url_prefix='/users')
+app.register_blueprint(planta_bp, url_prefix='/plantas')
+app.register_blueprint(abanico_bp, url_prefix='/abanico')
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -13,7 +13,7 @@ class ConsultarAbanicoHandler:
         modelo = ControlAbanicoSimpful()
         fan_on = modelo.decidir(
             temperatura=dato.temperatura,
-            humedad_ambiental=dato.humedad_ambiental,
+            humedad_ambiental=dato.humedad_aire,
             humedad_suelo=dato.humedad_suelo
         )
-        return {"fan_on": bool(fan_on)}
+        return {"fan_on": bool(fan_on), "planta": dato.planta, "fecha": dato.fecha}

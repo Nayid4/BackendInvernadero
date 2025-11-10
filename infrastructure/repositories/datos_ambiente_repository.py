@@ -4,19 +4,20 @@ from typing import List, Optional
 
 class DatosAmbienteRepository:
     def get_historico_completo(self) -> List[DatosAmbienteDTO]:
-        raw = realtime_db.child('invernadero').get()
-        if not raw or "historico" not in raw or not isinstance(raw["historico"], dict):
+        historico = realtime_db.child('historico').get()
+        if not historico or not isinstance(historico, dict):
             return []
-        historico = raw["historico"]
         resultado = []
-        for ts, datos in historico.items():
+        for registro_id, datos in historico.items():
             try:
                 resultado.append(
                     DatosAmbienteDTO(
-                        timestamp=ts,
-                        temperatura=float(datos['temperatura']),
-                        humedad_ambiental=float(datos['humedad_ambiental']),
-                        humedad_suelo=float(datos['humedad_suelo'])
+                        id=registro_id,
+                        fecha=datos.get('fecha', ''),
+                        planta=datos.get('planta', ''),
+                        temperatura=float(datos.get('temperatura', 0)),
+                        humedad_aire=float(datos.get('humedad_aire', 0)),
+                        humedad_suelo=float(datos.get('humedad_suelo', 0))
                     )
                 )
             except (KeyError, ValueError, TypeError):
@@ -27,4 +28,5 @@ class DatosAmbienteRepository:
         historicos = self.get_historico_completo()
         if not historicos:
             return None
-        return max(historicos, key=lambda d: d.timestamp)
+        # Ordena por fecha si es necesario, aquí se usa el orden lexicográfico del id
+        return sorted(historicos, key=lambda d: d.id)[-1]
