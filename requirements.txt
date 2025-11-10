@@ -1,7 +1,5 @@
 Flask
 Flask-JWT-Extended
-Flask-SQLAlchemy
-Flask-Migrate
 firebase-admin
 mediatr
 python-dotenv
@@ -13,4 +11,3 @@ Werkzeug
 numpy
 setuptools
 wheel
-pandas
