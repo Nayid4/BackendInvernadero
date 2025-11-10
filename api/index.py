@@ -1,5 +1,5 @@
-from dotenv import load_dotenv
-load_dotenv()
+#from dotenv import load_dotenv
+#load_dotenv()
 
 # --- INICIO DE SOLUCIÓN DE RUTA ---
 import sys
