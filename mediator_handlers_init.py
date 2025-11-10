@@ -17,5 +17,5 @@ import application.plantas.queries.get_all_plantas.handler
 import application.plantas.queries.get_planta_by_id.handler
 # Si tienes más handlers, agrégalos aquí
 
-import application.abanico.queries.consultar_abanico.handler
-import application.abanico.queries.get_historico.handler
+import application.controles.queries.consultar_control.handler
+import application.controles.queries.get_historico.handler

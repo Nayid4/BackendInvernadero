@@ -1,0 +1,124 @@
+planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,recomendacion
+Pimentón,11,muy bajo,953,bajo,83,muy alto,riego
+Pimentón,24,bajo,1624,bajo,79,alto,riego
+Pimentón,37,bajo,1061,bajo,82,muy alto,riego
+Pimentón,75,alto,1684,medio,58,alto,ventilación
+Pimentón,2,muy bajo,2149,medio,67,alto,estable
+Pimentón,52,medio,411,muy bajo,73,alto,riego
+Pimentón,69,alto,1871,medio,57,alto,estable
+Pimentón,28,bajo,2412,medio,81,muy alto,alerta calor
+Pimentón,60,medio,2329,medio,72,alto,estable
+Pimentón,41,medio,1145,bajo,89,muy alto,riego
+Pimentón,5,muy bajo,1556,bajo,82,muy alto,riego
+Pimentón,32,bajo,2227,medio,60,alto,estable
+Pimentón,39,bajo,231,muy bajo,76,alto,riego
+Pimentón,78,alto,1657,medio,64,alto,ventilación
+Pimentón,24,bajo,574,muy bajo,71,alto,riego
+Pimentón,61,medio,1271,bajo,71,alto,riego
+Pimentón,52,medio,2363,medio,68,alto,estable
+Pimentón,50,medio,1161,bajo,84,muy alto,riego
+Pimentón,41,medio,371,muy bajo,78,alto,riego
+Pimentón,52,medio,719,muy bajo,89,muy alto,riego
+Pimentón,30,bajo,1298,bajo,85,muy alto,riego
+Pimentón,61,medio,1236,bajo,60,alto,riego
+Pimentón,79,alto,2092,medio,84,muy alto,alerta calor
+Pimentón,63,medio,2139,medio,68,alto,estable
+Pimentón,56,medio,905,bajo,58,alto,riego
+Pimentón,38,bajo,1025,bajo,74,alto,riego
+Pimentón,25,bajo,1144,bajo,94,muy alto,riego
+Pimentón,35,bajo,1371,bajo,80,alto,riego
+Pimentón,79,alto,2436,medio,58,alto,ventilación
+Pimentón,38,bajo,1404,bajo,91,muy alto,riego
+Pimentón,66,alto,2095,medio,61,alto,estable
+Pimentón,17,muy bajo,1120,bajo,65,alto,riego
+Pimentón,42,medio,373,muy bajo,88,muy alto,riego
+Pimentón,42,medio,59,muy bajo,82,muy alto,riego
+Pimentón,40,bajo,1306,bajo,82,muy alto,riego
+Pimentón,41,medio,242,muy bajo,85,muy alto,riego
+Pimentón,26,bajo,787,muy bajo,88,muy alto,riego
+Pimentón,58,medio,3181,alto,67,alto,estable
+Pimentón,47,medio,2040,medio,83,muy alto,alerta calor
+Pimentón,45,medio,497,muy bajo,82,muy alto,riego
+Pimentón,50,medio,547,muy bajo,81,muy alto,riego
+Pimentón,52,medio,1060,bajo,84,muy alto,riego
+Pimentón,46,medio,1376,bajo,89,muy alto,riego
+Pimentón,61,medio,2914,alto,73,alto,estable
+Pimentón,59,medio,3145,alto,67,alto,estable
+Pimentón,26,bajo,1350,bajo,73,alto,riego
+Pimentón,53,medio,412,muy bajo,85,muy alto,riego
+Pimentón,25,bajo,1427,bajo,87,muy alto,riego
+Pimentón,49,medio,67,muy bajo,84,muy alto,riego
+Pimentón,33,bajo,1221,bajo,82,muy alto,riego
+Pimentón,52,medio,948,bajo,74,alto,riego
+Pimentón,31,bajo,87,muy bajo,88,muy alto,riego
+Pimentón,71,alto,1817,medio,63,alto,ventilación
+Pimentón,82,alto,1669,medio,57,alto,ventilación
+Pimentón,54,medio,982,bajo,84,muy alto,riego
+Pimentón,36,bajo,48,muy bajo,88,muy alto,riego
+Pimentón,46,medio,1140,bajo,75,alto,riego
+Pimentón,60,medio,2500,alto,30,bajo,estable
+Pimentón,21,bajo,30,muy bajo,80,alto,riego
+Pimentón,47,medio,1122,bajo,75,alto,riego
+Pimentón,29,bajo,1097,bajo,77,alto,riego
+Pimentón,83,alto,1033,bajo,63,alto,riego
+Pimentón,33,bajo,778,muy bajo,78,alto,riego
+Pimentón,37,bajo,1529,bajo,86,muy alto,riego
+Pimentón,46,medio,2186,medio,72,alto,estable
+Pimentón,77,alto,3089,alto,69,alto,ventilación
+Pimentón,59,medio,422,muy bajo,94,muy alto,riego
+Pimentón,66,alto,843,bajo,73,alto,riego
+Pimentón,76,alto,2493,alto,70,alto,ventilación
+Pimentón,47,medio,2769,alto,74,alto,estable
+Pimentón,46,medio,3259,alto,67,alto,estable
+Pimentón,21,bajo,1116,bajo,92,muy alto,riego
+Pimentón,24,bajo,1353,bajo,82,muy alto,riego
+Pimentón,36,bajo,139,muy bajo,79,alto,riego
+Pimentón,70,alto,1878,medio,57,alto,estable
+Pimentón,43,medio,1277,bajo,85,muy alto,riego
+Pimentón,41,medio,1037,bajo,87,muy alto,riego
+Pimentón,75,alto,2207,medio,77,alto,alerta calor
+Pimentón,42,medio,2241,medio,56,alto,estable
+Pimentón,60,medio,3800,muy alto,55,medio,alerta exceso humedad
+Pimentón,34,bajo,1575,bajo,76,alto,riego
+Pimentón,55,medio,1193,bajo,72,alto,riego
+Pimentón,49,medio,1531,bajo,77,alto,riego
+Pimentón,32,bajo,535,muy bajo,88,muy alto,riego
+Pimentón,58,medio,95,muy bajo,85,muy alto,riego
+Pimentón,39,bajo,1178,bajo,90,muy alto,riego
+Pimentón,25,bajo,816,muy bajo,80,alto,riego
+Pimentón,56,medio,576,muy bajo,81,muy alto,riego
+Pimentón,60,medio,2500,alto,10,muy bajo,estable
+Pimentón,85,alto,2559,alto,61,alto,ventilación
+Pimentón,24,bajo,1229,bajo,76,alto,riego
+Pimentón,73,alto,2653,alto,59,alto,ventilación
+Pimentón,84,alto,2021,medio,70,alto,ventilación
+Pimentón,51,medio,414,muy bajo,85,muy alto,riego
+Pimentón,47,medio,941,bajo,91,muy alto,riego
+Pimentón,6,muy bajo,2362,medio,62,alto,estable
+Pimentón,43,medio,2158,medio,66,alto,estable
+Pimentón,20,muy bajo,2160,medio,60,alto,estable
+Pimentón,58,medio,2264,medio,68,alto,estable
+Pimentón,53,medio,990,bajo,85,muy alto,riego
+Pimentón,45,medio,1176,bajo,91,muy alto,riego
+Pimentón,41,medio,385,muy bajo,85,muy alto,riego
+Pimentón,52,medio,2111,medio,64,alto,estable
+Pimentón,21,bajo,182,muy bajo,80,alto,riego
+Pimentón,44,medio,308,muy bajo,89,muy alto,riego
+Pimentón,62,medio,1845,medio,61,alto,estable
+Pimentón,78,alto,1689,medio,68,alto,ventilación
+Pimentón,23,bajo,1384,bajo,78,alto,riego
+Pimentón,51,medio,1368,bajo,82,muy alto,riego
+Pimentón,56,medio,1601,bajo,58,alto,riego
+Pimentón,34,bajo,226,muy bajo,70,alto,riego
+Pimentón,39,bajo,225,muy bajo,86,muy alto,riego
+Pimentón,24,bajo,154,muy bajo,75,alto,riego
+Pimentón,89,muy alto,1360,bajo,81,muy alto,riego
+Pimentón,78,alto,1838,medio,58,alto,ventilación
+Pimentón,35,bajo,890,bajo,80,alto,riego
+Pimentón,56,medio,2670,alto,59,alto,estable
+Pimentón,38,bajo,505,muy bajo,77,alto,riego
+Pimentón,41,medio,272,muy bajo,76,alto,riego
+Pimentón,49,medio,722,muy bajo,83,muy alto,riego
+Pimentón,34,bajo,119,muy bajo,75,alto,riego
+Pimentón,53,medio,3054,alto,72,alto,estable
+Pimentón,19,muy bajo,1525,bajo,73,alto,riego

@@ -1,0 +1,124 @@
+planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,recomendacion
+Tomate,48,medio,217,muy bajo,60,alto,riego
+Tomate,31,bajo,951,bajo,40,medio,riego
+Tomate,54,medio,1068,bajo,56,alto,riego
+Tomate,51,medio,1102,bajo,62,alto,riego
+Tomate,20,muy bajo,2955,alto,68,alto,alerta calor
+Tomate,54,medio,1545,bajo,61,alto,riego
+Tomate,78,alto,1434,bajo,52,medio,riego
+Tomate,50,medio,2558,alto,70,alto,alerta calor
+Tomate,48,medio,2631,alto,68,alto,alerta calor
+Tomate,32,bajo,2665,alto,57,alto,estable
+Tomate,42,medio,2215,medio,56,alto,estable
+Tomate,75,alto,1014,bajo,56,alto,riego
+Tomate,55,medio,3065,alto,52,medio,estable
+Tomate,45,medio,2932,alto,50,medio,estable
+Tomate,45,medio,1954,medio,68,alto,alerta calor
+Tomate,60,medio,2500,alto,10,muy bajo,estable
+Tomate,71,alto,3694,muy alto,61,alto,alerta exceso humedad
+Tomate,78,alto,1885,medio,53,medio,ventilación
+Tomate,71,alto,3672,muy alto,49,medio,alerta exceso humedad
+Tomate,42,medio,2117,medio,62,alto,estable
+Tomate,40,bajo,262,muy bajo,54,medio,riego
+Tomate,33,bajo,1644,medio,42,medio,estable
+Tomate,42,medio,1771,medio,58,alto,estable
+Tomate,34,bajo,1870,medio,44,medio,estable
+Tomate,45,medio,2314,medio,63,alto,estable
+Tomate,54,medio,2310,medio,56,alto,estable
+Tomate,52,medio,2569,alto,52,medio,estable
+Tomate,20,muy bajo,1093,bajo,50,medio,riego
+Tomate,76,alto,922,bajo,58,alto,riego
+Tomate,29,bajo,642,muy bajo,58,alto,riego
+Tomate,58,medio,2396,medio,50,medio,estable
+Tomate,56,medio,1122,bajo,36,medio,riego
+Tomate,48,medio,1937,medio,65,alto,estable
+Tomate,74,alto,1265,bajo,69,alto,riego
+Tomate,43,medio,2445,medio,54,medio,estable
+Tomate,58,medio,2512,alto,56,alto,estable
+Tomate,38,bajo,1644,medio,70,alto,alerta calor
+Tomate,56,medio,2458,alto,49,medio,estable
+Tomate,45,medio,1641,medio,46,medio,estable
+Tomate,43,medio,1771,medio,59,alto,estable
+Tomate,35,bajo,1836,medio,69,alto,alerta calor
+Tomate,27,bajo,1089,bajo,54,medio,riego
+Tomate,42,medio,2417,medio,54,medio,estable
+Tomate,31,bajo,2194,medio,61,alto,estable
+Tomate,31,bajo,1649,medio,60,alto,estable
+Tomate,49,medio,1761,medio,53,medio,estable
+Tomate,49,medio,1592,bajo,50,medio,riego
+Tomate,36,bajo,1939,medio,49,medio,estable
+Tomate,74,alto,1262,bajo,51,medio,riego
+Tomate,40,bajo,2196,medio,53,medio,estable
+Tomate,80,alto,2324,medio,49,medio,ventilación
+Tomate,46,medio,2549,alto,66,alto,alerta calor
+Tomate,52,medio,3191,alto,61,alto,estable
+Tomate,42,medio,2411,medio,61,alto,estable
+Tomate,71,alto,3521,muy alto,62,alto,alerta exceso humedad
+Tomate,59,medio,2319,medio,44,medio,estable
+Tomate,42,medio,2211,medio,60,alto,estable
+Tomate,67,alto,3136,alto,64,alto,ventilación
+Tomate,60,medio,631,muy bajo,52,medio,riego
+Tomate,58,medio,2721,alto,66,alto,alerta calor
+Tomate,48,medio,2454,medio,64,alto,estable
+Tomate,96,muy alto,1984,medio,43,medio,ventilación
+Tomate,31,bajo,1940,medio,50,medio,estable
+Tomate,24,bajo,938,bajo,62,alto,riego
+Tomate,18,muy bajo,1829,medio,57,alto,estable
+Tomate,35,bajo,2919,alto,56,alto,estable
+Tomate,2,muy bajo,3174,alto,69,alto,alerta calor
+Tomate,23,bajo,267,muy bajo,61,alto,riego
+Tomate,36,bajo,2811,alto,64,alto,estable
+Tomate,51,medio,1917,medio,49,medio,estable
+Tomate,29,bajo,1231,bajo,44,medio,riego
+Tomate,51,medio,2122,medio,77,alto,alerta calor
+Tomate,38,bajo,2578,alto,48,medio,estable
+Tomate,47,medio,2549,alto,59,alto,estable
+Tomate,23,bajo,247,muy bajo,60,alto,riego
+Tomate,43,medio,2434,medio,48,medio,estable
+Tomate,46,medio,2176,medio,54,medio,estable
+Tomate,53,medio,1736,medio,60,alto,estable
+Tomate,56,medio,2414,medio,62,alto,estable
+Tomate,51,medio,1897,medio,43,medio,estable
+Tomate,53,medio,2790,alto,54,medio,estable
+Tomate,44,medio,3944,muy alto,58,alto,alerta exceso humedad
+Tomate,33,bajo,1653,medio,55,medio,estable
+Tomate,57,medio,1340,bajo,67,alto,riego
+Tomate,48,medio,2650,alto,49,medio,estable
+Tomate,54,medio,2938,alto,53,medio,estable
+Tomate,8,muy bajo,842,bajo,67,alto,riego
+Tomate,28,bajo,3495,muy alto,63,alto,alerta exceso humedad
+Tomate,47,medio,2386,medio,62,alto,estable
+Tomate,40,bajo,2313,medio,51,medio,estable
+Tomate,31,bajo,2071,medio,59,alto,estable
+Tomate,29,bajo,3012,alto,62,alto,estable
+Tomate,61,medio,1713,medio,64,alto,ventilación
+Tomate,65,medio,2501,alto,48,medio,ventilación
+Tomate,33,bajo,2932,alto,49,medio,estable
+Tomate,32,bajo,1908,medio,58,alto,estable
+Tomate,54,medio,2468,alto,48,medio,estable
+Tomate,32,bajo,2935,alto,49,medio,estable
+Tomate,60,medio,2500,alto,30,bajo,estable
+Tomate,78,alto,3423,muy alto,54,medio,alerta exceso humedad
+Tomate,39,bajo,2478,alto,36,medio,estable
+Tomate,35,bajo,2724,alto,68,alto,alerta calor
+Tomate,13,muy bajo,2106,medio,54,medio,estable
+Tomate,59,medio,2765,alto,48,medio,estable
+Tomate,33,bajo,1654,medio,58,alto,estable
+Tomate,33,bajo,2964,alto,44,medio,estable
+Tomate,62,medio,3336,muy alto,53,medio,alerta exceso humedad
+Tomate,42,medio,2066,medio,47,medio,estable
+Tomate,12,muy bajo,1561,bajo,67,alto,riego
+Tomate,34,bajo,2439,medio,65,alto,estable
+Tomate,36,bajo,2784,alto,44,medio,estable
+Tomate,1,muy bajo,2730,alto,46,medio,estable
+Tomate,60,medio,2987,alto,50,medio,estable
+Tomate,35,bajo,2409,medio,58,alto,estable
+Tomate,52,medio,2352,medio,51,medio,estable
+Tomate,36,bajo,2740,alto,56,alto,estable
+Tomate,50,medio,3310,muy alto,55,medio,alerta exceso humedad
+Tomate,27,bajo,3462,muy alto,50,medio,alerta exceso humedad
+Tomate,60,medio,2500,alto,90,muy alto,alerta calor
+Tomate,35,bajo,2289,medio,59,alto,estable
+Tomate,62,medio,1972,medio,59,alto,ventilación
+Tomate,22,bajo,2096,medio,64,alto,estable
+Tomate,94,muy alto,3253,alto,55,medio,ventilación

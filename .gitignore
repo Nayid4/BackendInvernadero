@@ -15,6 +15,7 @@ env/
 
 # Python dotenv
 .env
+api/run.py
 
 # Firebase Keys
 *.json

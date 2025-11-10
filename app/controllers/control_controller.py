@@ -1,38 +1,39 @@
-from flask import Blueprint, jsonify
+from flask import Blueprint, request, jsonify
 from mediatr import Mediator
 from flask_jwt_extended import jwt_required
 from flask_problem_details import ProblemDetails, ProblemDetailsError
 
-from application.abanico.queries.consultar_abanico.dto import ConsultarAbanicoDTO
-from application.abanico.queries.get_historico.dto import GetHistoricoDTO
+from application.controles.queries.consultar_control.dto import ControlRequestDTO
+from application.controles.queries.get_historico.dto import GetHistoricoDTO
 
-abanico_bp = Blueprint('abanico', __name__)
+control_bp = Blueprint('control', __name__)
 
-@abanico_bp.route('/consultar', methods=['GET'])
-#@jwt_required()
-def consultar():
+@control_bp.route('/consultar', methods=['POST'])
+def control():
     try:
-        dto = ConsultarAbanicoDTO()
+        data = request.json
+        dto = ControlRequestDTO(
+            temperatura=data['temperatura'],
+            humedad_aire=data['humedad_aire'],
+            humedad_suelo=data['humedad_suelo'],
+            planta=data['planta']
+        )
         result = Mediator.send(dto)
         if result is None:
-            raise ProblemDetailsError(
-                ProblemDetails(
-                    status=404,
-                    title="Datos no encontrados",
-                    detail="No se encontraron datos ambientales recientes en la base de datos"
-                )
-            )
+            raise ProblemDetailsError(ProblemDetails(
+                status=404,
+                title="Acción no determinada",
+                detail="No se pudo calcular la acción para los actuadores"
+            ))
         return jsonify(result), 200
     except Exception as e:
-        raise ProblemDetailsError(
-            ProblemDetails(
-                status=500,
-                title="Error al consultar abanico",
-                detail=str(e)
-            )
-        )
+        raise ProblemDetailsError(ProblemDetails(
+            status=500,
+            title="Error de la lógica difusa",
+            detail=str(e)
+        ))
 
-@abanico_bp.route('/historico', methods=['GET'])
+@control_bp.route('/historico', methods=['GET'])
 #@jwt_required()
 def consultar_historico():
     dto = GetHistoricoDTO()

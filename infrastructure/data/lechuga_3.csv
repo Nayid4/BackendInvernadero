@@ -1,0 +1,121 @@
+planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,recomendacion
+Lechuga,45,medio,1875,medio,36,medio,riego
+Lechuga,47,medio,2031,medio,24,bajo,riego
+Lechuga,87,muy alto,4009,muy alto,39,medio,alerta exceso humedad
+Lechuga,46,medio,1703,medio,49,medio,riego
+Lechuga,73,alto,3229,alto,37,medio,estable
+Lechuga,86,muy alto,2934,alto,31,bajo,ventilación
+Lechuga,92,muy alto,3321,muy alto,55,medio,alerta exceso humedad
+Lechuga,81,alto,2780,alto,38,medio,estable
+Lechuga,83,alto,2556,alto,46,medio,ventilación
+Lechuga,86,muy alto,1160,bajo,78,alto,riego
+Lechuga,96,muy alto,3321,muy alto,40,medio,alerta exceso humedad
+Lechuga,40,bajo,2668,alto,30,bajo,estable
+Lechuga,60,medio,2017,medio,43,medio,riego
+Lechuga,97,muy alto,3669,muy alto,57,alto,alerta exceso humedad
+Lechuga,69,alto,3004,alto,48,medio,ventilación
+Lechuga,93,muy alto,3400,muy alto,42,medio,alerta exceso humedad
+Lechuga,76,alto,3456,muy alto,55,medio,alerta exceso humedad
+Lechuga,97,muy alto,3637,muy alto,59,alto,alerta exceso humedad
+Lechuga,73,alto,2595,alto,33,bajo,estable
+Lechuga,82,alto,2917,alto,35,bajo,estable
+Lechuga,44,medio,2473,alto,47,medio,ventilación
+Lechuga,12,muy bajo,1811,medio,17,muy bajo,riego
+Lechuga,84,alto,2132,medio,30,bajo,riego
+Lechuga,83,alto,2485,alto,56,alto,alerta calor
+Lechuga,82,alto,2661,alto,33,bajo,estable
+Lechuga,20,muy bajo,909,bajo,63,alto,riego
+Lechuga,75,alto,3347,muy alto,41,medio,alerta exceso humedad
+Lechuga,13,muy bajo,4007,muy alto,57,alto,alerta exceso humedad
+Lechuga,46,medio,2599,alto,93,muy alto,alerta calor
+Lechuga,42,medio,3098,alto,39,medio,estable
+Lechuga,94,muy alto,3245,alto,38,medio,ventilación
+Lechuga,72,alto,4004,muy alto,51,medio,alerta exceso humedad
+Lechuga,74,alto,2605,alto,33,bajo,estable
+Lechuga,58,medio,3128,alto,30,bajo,estable
+Lechuga,52,medio,3064,alto,49,medio,ventilación
+Lechuga,74,alto,4007,muy alto,51,medio,alerta exceso humedad
+Lechuga,70,alto,2390,medio,48,medio,riego
+Lechuga,7,muy bajo,3229,alto,5,muy bajo,estable
+Lechuga,42,medio,2903,alto,27,bajo,estable
+Lechuga,76,alto,2928,alto,29,bajo,estable
+Lechuga,96,muy alto,3951,muy alto,37,medio,alerta exceso humedad
+Lechuga,2,muy bajo,3212,alto,25,bajo,estable
+Lechuga,78,alto,3540,muy alto,38,medio,alerta exceso humedad
+Lechuga,94,muy alto,3122,alto,42,medio,ventilación
+Lechuga,75,alto,2405,medio,38,medio,riego
+Lechuga,64,medio,1802,medio,27,bajo,riego
+Lechuga,91,muy alto,3493,muy alto,39,medio,alerta exceso humedad
+Lechuga,95,muy alto,1765,medio,35,bajo,ventilación
+Lechuga,84,alto,3789,muy alto,37,medio,alerta exceso humedad
+Lechuga,71,alto,3016,alto,41,medio,estable
+Lechuga,72,alto,2657,alto,31,bajo,estable
+Lechuga,42,medio,2762,alto,23,bajo,estable
+Lechuga,74,alto,3685,muy alto,38,medio,alerta exceso humedad
+Lechuga,89,muy alto,2908,alto,50,medio,ventilación
+Lechuga,91,muy alto,2627,alto,59,alto,alerta calor
+Lechuga,51,medio,3027,alto,21,bajo,estable
+Lechuga,48,medio,2187,medio,20,muy bajo,riego
+Lechuga,77,alto,2971,alto,41,medio,estable
+Lechuga,85,alto,3861,muy alto,58,alto,alerta exceso humedad
+Lechuga,76,alto,2594,alto,29,bajo,estable
+Lechuga,77,alto,2495,alto,45,medio,estable
+Lechuga,71,alto,1682,medio,25,bajo,riego
+Lechuga,51,medio,2419,medio,21,bajo,riego
+Lechuga,71,alto,3555,muy alto,34,bajo,alerta exceso humedad
+Lechuga,28,bajo,3997,muy alto,74,alto,alerta exceso humedad
+Lechuga,55,medio,1754,medio,29,bajo,riego
+Lechuga,45,medio,2573,alto,31,bajo,estable
+Lechuga,77,alto,1883,medio,63,alto,alerta calor
+Lechuga,47,medio,2764,alto,32,bajo,estable
+Lechuga,93,muy alto,3337,muy alto,57,alto,alerta exceso humedad
+Lechuga,69,alto,2688,alto,27,bajo,estable
+Lechuga,70,alto,1641,medio,37,medio,riego
+Lechuga,63,medio,1972,medio,22,bajo,riego
+Lechuga,74,alto,2803,alto,55,medio,ventilación
+Lechuga,92,muy alto,3820,muy alto,59,alto,alerta exceso humedad
+Lechuga,67,alto,1933,medio,50,medio,riego
+Lechuga,85,alto,4012,muy alto,37,medio,alerta exceso humedad
+Lechuga,74,alto,3309,muy alto,33,bajo,alerta exceso humedad
+Lechuga,68,alto,2222,medio,49,medio,riego
+Lechuga,48,medio,3172,alto,37,medio,estable
+Lechuga,98,muy alto,3436,muy alto,59,alto,alerta exceso humedad
+Lechuga,77,alto,1225,bajo,47,medio,riego
+Lechuga,90,muy alto,3010,alto,49,medio,ventilación
+Lechuga,86,muy alto,4076,muy alto,43,medio,alerta exceso humedad
+Lechuga,95,muy alto,3339,muy alto,55,medio,alerta exceso humedad
+Lechuga,46,medio,2542,alto,38,medio,estable
+Lechuga,78,alto,2367,medio,30,bajo,riego
+Lechuga,69,alto,606,muy bajo,46,medio,riego
+Lechuga,81,alto,3280,muy alto,33,bajo,alerta exceso humedad
+Lechuga,99,muy alto,2626,alto,49,medio,ventilación
+Lechuga,90,muy alto,3960,muy alto,48,medio,alerta exceso humedad
+Lechuga,37,bajo,2020,medio,87,muy alto,alerta calor
+Lechuga,62,medio,2329,medio,37,medio,riego
+Lechuga,74,alto,1892,medio,15,muy bajo,riego
+Lechuga,96,muy alto,3692,muy alto,45,medio,alerta exceso humedad
+Lechuga,90,muy alto,3370,muy alto,41,medio,alerta exceso humedad
+Lechuga,81,alto,3266,alto,36,medio,estable
+Lechuga,82,alto,3950,muy alto,45,medio,alerta exceso humedad
+Lechuga,77,alto,2829,alto,38,medio,estable
+Lechuga,91,muy alto,2640,alto,49,medio,ventilación
+Lechuga,93,muy alto,2675,alto,20,muy bajo,estable
+Lechuga,94,muy alto,3405,muy alto,59,alto,alerta exceso humedad
+Lechuga,87,muy alto,2596,alto,53,medio,ventilación
+Lechuga,98,muy alto,2108,medio,78,alto,alerta calor
+Lechuga,78,alto,2915,alto,53,medio,ventilación
+Lechuga,93,muy alto,3221,alto,33,bajo,ventilación
+Lechuga,16,muy bajo,1577,bajo,79,alto,riego
+Lechuga,47,medio,3256,alto,34,bajo,estable
+Lechuga,53,medio,2534,alto,24,bajo,estable
+Lechuga,85,alto,4091,muy alto,49,medio,alerta exceso humedad
+Lechuga,74,alto,3122,alto,57,alto,alerta calor
+Lechuga,11,muy bajo,1740,medio,38,medio,riego
+Lechuga,88,muy alto,2914,alto,43,medio,ventilación
+Lechuga,74,alto,1862,medio,15,muy bajo,riego
+Lechuga,31,bajo,907,bajo,95,muy alto,riego
+Lechuga,100,muy alto,2793,alto,31,bajo,ventilación
+Lechuga,50,medio,2750,alto,47,medio,ventilación
+Lechuga,75,alto,3625,muy alto,35,bajo,alerta exceso humedad
+Lechuga,74,alto,2924,alto,22,bajo,estable
+Lechuga,68,alto,1086,bajo,99,muy alto,riego

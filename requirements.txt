@@ -13,3 +13,4 @@ Werkzeug
 numpy
 setuptools
 wheel
+pandas

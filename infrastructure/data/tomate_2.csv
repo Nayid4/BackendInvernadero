@@ -1,0 +1,121 @@
+planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,recomendacion
+Tomate,62,medio,3292,muy alto,34,bajo,alerta exceso humedad
+Tomate,21,bajo,2706,alto,18,muy bajo,estable
+Tomate,79,alto,2249,medio,73,alto,alerta calor
+Tomate,13,muy bajo,2958,alto,48,medio,estable
+Tomate,69,alto,2495,alto,55,medio,ventilación
+Tomate,99,muy alto,3600,muy alto,86,muy alto,alerta exceso humedad
+Tomate,41,medio,2013,medio,49,medio,estable
+Tomate,56,medio,1779,medio,80,alto,alerta calor
+Tomate,85,alto,2745,alto,67,alto,alerta calor
+Tomate,86,muy alto,2981,alto,74,alto,alerta calor
+Tomate,85,alto,2853,alto,71,alto,alerta calor
+Tomate,6,muy bajo,2310,medio,94,muy alto,alerta calor
+Tomate,95,muy alto,2031,medio,73,alto,alerta calor
+Tomate,95,muy alto,2640,alto,88,muy alto,alerta calor
+Tomate,70,alto,4069,muy alto,87,muy alto,alerta exceso humedad
+Tomate,94,muy alto,2281,medio,86,muy alto,alerta calor
+Tomate,100,muy alto,4060,muy alto,78,alto,alerta exceso humedad
+Tomate,23,bajo,952,bajo,45,medio,riego
+Tomate,86,muy alto,3735,muy alto,86,muy alto,alerta exceso humedad
+Tomate,46,medio,2975,alto,72,alto,alerta calor
+Tomate,52,medio,2233,medio,69,alto,alerta calor
+Tomate,72,alto,3168,alto,47,medio,ventilación
+Tomate,75,alto,2764,alto,51,medio,ventilación
+Tomate,70,alto,3527,muy alto,63,alto,alerta exceso humedad
+Tomate,68,alto,2508,alto,70,alto,alerta calor
+Tomate,95,muy alto,2968,alto,80,alto,alerta calor
+Tomate,86,muy alto,2325,medio,65,alto,ventilación
+Tomate,66,alto,1680,medio,45,medio,ventilación
+Tomate,85,alto,3253,alto,69,alto,alerta calor
+Tomate,28,bajo,3023,alto,99,muy alto,alerta calor
+Tomate,66,alto,2541,alto,56,alto,ventilación
+Tomate,49,medio,2351,medio,97,muy alto,alerta calor
+Tomate,52,medio,1802,medio,79,alto,alerta calor
+Tomate,29,bajo,377,muy bajo,90,muy alto,riego
+Tomate,100,muy alto,3438,muy alto,81,muy alto,alerta exceso humedad
+Tomate,88,muy alto,2666,alto,61,alto,ventilación
+Tomate,58,medio,2358,medio,46,medio,estable
+Tomate,86,muy alto,3930,muy alto,87,muy alto,alerta exceso humedad
+Tomate,87,muy alto,3215,alto,68,alto,alerta calor
+Tomate,93,muy alto,3951,muy alto,74,alto,alerta exceso humedad
+Tomate,71,alto,4053,muy alto,61,alto,alerta exceso humedad
+Tomate,53,medio,2360,medio,52,medio,estable
+Tomate,75,alto,2454,medio,71,alto,alerta calor
+Tomate,18,muy bajo,3299,muy alto,94,muy alto,alerta exceso humedad
+Tomate,81,alto,2801,alto,94,muy alto,alerta calor
+Tomate,96,muy alto,3596,muy alto,85,muy alto,alerta exceso humedad
+Tomate,79,alto,2410,medio,77,alto,alerta calor
+Tomate,81,alto,3872,muy alto,86,muy alto,alerta exceso humedad
+Tomate,35,bajo,3532,muy alto,60,alto,alerta exceso humedad
+Tomate,54,medio,3013,alto,63,alto,estable
+Tomate,64,medio,3253,alto,48,medio,ventilación
+Tomate,72,alto,3675,muy alto,79,alto,alerta exceso humedad
+Tomate,78,alto,2725,alto,46,medio,ventilación
+Tomate,77,alto,2021,medio,71,alto,alerta calor
+Tomate,89,muy alto,2584,alto,86,muy alto,alerta calor
+Tomate,72,alto,2988,alto,67,alto,alerta calor
+Tomate,89,muy alto,2625,alto,63,alto,ventilación
+Tomate,91,muy alto,530,muy bajo,96,muy alto,riego
+Tomate,58,medio,2404,medio,66,alto,alerta calor
+Tomate,78,alto,2207,medio,80,alto,alerta calor
+Tomate,64,medio,1751,medio,78,alto,alerta calor
+Tomate,66,alto,2643,alto,51,medio,ventilación
+Tomate,77,alto,3012,alto,87,muy alto,alerta calor
+Tomate,97,muy alto,3427,muy alto,93,muy alto,alerta exceso humedad
+Tomate,59,medio,1885,medio,72,alto,alerta calor
+Tomate,96,muy alto,2503,alto,90,muy alto,alerta calor
+Tomate,63,medio,2872,alto,98,muy alto,alerta calor
+Tomate,51,medio,1293,bajo,13,muy bajo,riego
+Tomate,68,alto,2741,alto,24,bajo,ventilación
+Tomate,76,alto,2922,alto,47,medio,ventilación
+Tomate,97,muy alto,3319,muy alto,63,alto,alerta exceso humedad
+Tomate,64,medio,2358,medio,80,alto,alerta calor
+Tomate,43,medio,2761,alto,65,alto,estable
+Tomate,91,muy alto,2525,alto,75,alto,alerta calor
+Tomate,98,muy alto,3653,muy alto,75,alto,alerta exceso humedad
+Tomate,97,muy alto,3290,muy alto,71,alto,alerta exceso humedad
+Tomate,94,muy alto,4013,muy alto,93,muy alto,alerta exceso humedad
+Tomate,13,muy bajo,2159,medio,57,alto,estable
+Tomate,88,muy alto,1473,bajo,47,medio,riego
+Tomate,78,alto,3961,muy alto,65,alto,alerta exceso humedad
+Tomate,92,muy alto,3029,alto,69,alto,alerta calor
+Tomate,86,muy alto,2951,alto,77,alto,alerta calor
+Tomate,98,muy alto,4094,muy alto,27,bajo,alerta exceso humedad
+Tomate,79,alto,2902,alto,40,medio,ventilación
+Tomate,90,muy alto,2083,medio,82,muy alto,alerta calor
+Tomate,71,alto,3001,alto,94,muy alto,alerta calor
+Tomate,98,muy alto,3785,muy alto,70,alto,alerta exceso humedad
+Tomate,84,alto,1933,medio,60,alto,ventilación
+Tomate,70,alto,3951,muy alto,90,muy alto,alerta exceso humedad
+Tomate,40,bajo,2045,medio,62,alto,estable
+Tomate,96,muy alto,3031,alto,82,muy alto,alerta calor
+Tomate,90,muy alto,2698,alto,74,alto,alerta calor
+Tomate,93,muy alto,2651,alto,71,alto,alerta calor
+Tomate,51,medio,2568,alto,52,medio,estable
+Tomate,95,muy alto,2704,alto,93,muy alto,alerta calor
+Tomate,88,muy alto,3638,muy alto,77,alto,alerta exceso humedad
+Tomate,87,muy alto,2688,alto,77,alto,alerta calor
+Tomate,75,alto,2661,alto,95,muy alto,alerta calor
+Tomate,23,bajo,2045,medio,0,muy bajo,estable
+Tomate,51,medio,2882,alto,53,medio,estable
+Tomate,97,muy alto,3732,muy alto,73,alto,alerta exceso humedad
+Tomate,36,bajo,3631,muy alto,2,muy bajo,alerta exceso humedad
+Tomate,72,alto,2539,alto,70,alto,alerta calor
+Tomate,90,muy alto,3740,muy alto,92,muy alto,alerta exceso humedad
+Tomate,73,alto,3656,muy alto,70,alto,alerta exceso humedad
+Tomate,71,alto,2988,alto,79,alto,alerta calor
+Tomate,98,muy alto,2936,alto,72,alto,alerta calor
+Tomate,82,alto,3517,muy alto,79,alto,alerta exceso humedad
+Tomate,74,alto,1859,medio,76,alto,alerta calor
+Tomate,98,muy alto,2666,alto,68,alto,alerta calor
+Tomate,71,alto,3399,muy alto,85,muy alto,alerta exceso humedad
+Tomate,94,muy alto,2460,alto,71,alto,alerta calor
+Tomate,77,alto,2239,medio,63,alto,ventilación
+Tomate,92,muy alto,3948,muy alto,64,alto,alerta exceso humedad
+Tomate,70,alto,3232,alto,79,alto,alerta calor
+Tomate,75,alto,2024,medio,81,muy alto,alerta calor
+Tomate,62,medio,50,muy bajo,41,medio,riego
+Tomate,58,medio,2772,alto,51,medio,estable
+Tomate,73,alto,3190,alto,70,alto,alerta calor
+Tomate,63,medio,3072,alto,59,alto,ventilación
