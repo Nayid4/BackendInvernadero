@@ -1,121 +1,121 @@
-planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,recomendacion
-Lechuga,45,medio,1875,medio,36,medio,riego
-Lechuga,47,medio,2031,medio,24,bajo,riego
-Lechuga,87,muy alto,4009,muy alto,39,medio,alerta exceso humedad
-Lechuga,46,medio,1703,medio,49,medio,riego
-Lechuga,73,alto,3229,alto,37,medio,estable
-Lechuga,86,muy alto,2934,alto,31,bajo,ventilación
-Lechuga,92,muy alto,3321,muy alto,55,medio,alerta exceso humedad
-Lechuga,81,alto,2780,alto,38,medio,estable
-Lechuga,83,alto,2556,alto,46,medio,ventilación
-Lechuga,86,muy alto,1160,bajo,78,alto,riego
-Lechuga,96,muy alto,3321,muy alto,40,medio,alerta exceso humedad
-Lechuga,40,bajo,2668,alto,30,bajo,estable
-Lechuga,60,medio,2017,medio,43,medio,riego
-Lechuga,97,muy alto,3669,muy alto,57,alto,alerta exceso humedad
-Lechuga,69,alto,3004,alto,48,medio,ventilación
-Lechuga,93,muy alto,3400,muy alto,42,medio,alerta exceso humedad
-Lechuga,76,alto,3456,muy alto,55,medio,alerta exceso humedad
-Lechuga,97,muy alto,3637,muy alto,59,alto,alerta exceso humedad
-Lechuga,73,alto,2595,alto,33,bajo,estable
-Lechuga,82,alto,2917,alto,35,bajo,estable
-Lechuga,44,medio,2473,alto,47,medio,ventilación
-Lechuga,12,muy bajo,1811,medio,17,muy bajo,riego
-Lechuga,84,alto,2132,medio,30,bajo,riego
-Lechuga,83,alto,2485,alto,56,alto,alerta calor
-Lechuga,82,alto,2661,alto,33,bajo,estable
-Lechuga,20,muy bajo,909,bajo,63,alto,riego
-Lechuga,75,alto,3347,muy alto,41,medio,alerta exceso humedad
-Lechuga,13,muy bajo,4007,muy alto,57,alto,alerta exceso humedad
-Lechuga,46,medio,2599,alto,93,muy alto,alerta calor
-Lechuga,42,medio,3098,alto,39,medio,estable
-Lechuga,94,muy alto,3245,alto,38,medio,ventilación
-Lechuga,72,alto,4004,muy alto,51,medio,alerta exceso humedad
-Lechuga,74,alto,2605,alto,33,bajo,estable
-Lechuga,58,medio,3128,alto,30,bajo,estable
-Lechuga,52,medio,3064,alto,49,medio,ventilación
-Lechuga,74,alto,4007,muy alto,51,medio,alerta exceso humedad
-Lechuga,70,alto,2390,medio,48,medio,riego
-Lechuga,7,muy bajo,3229,alto,5,muy bajo,estable
-Lechuga,42,medio,2903,alto,27,bajo,estable
-Lechuga,76,alto,2928,alto,29,bajo,estable
-Lechuga,96,muy alto,3951,muy alto,37,medio,alerta exceso humedad
-Lechuga,2,muy bajo,3212,alto,25,bajo,estable
-Lechuga,78,alto,3540,muy alto,38,medio,alerta exceso humedad
-Lechuga,94,muy alto,3122,alto,42,medio,ventilación
-Lechuga,75,alto,2405,medio,38,medio,riego
-Lechuga,64,medio,1802,medio,27,bajo,riego
-Lechuga,91,muy alto,3493,muy alto,39,medio,alerta exceso humedad
-Lechuga,95,muy alto,1765,medio,35,bajo,ventilación
-Lechuga,84,alto,3789,muy alto,37,medio,alerta exceso humedad
-Lechuga,71,alto,3016,alto,41,medio,estable
-Lechuga,72,alto,2657,alto,31,bajo,estable
-Lechuga,42,medio,2762,alto,23,bajo,estable
-Lechuga,74,alto,3685,muy alto,38,medio,alerta exceso humedad
-Lechuga,89,muy alto,2908,alto,50,medio,ventilación
-Lechuga,91,muy alto,2627,alto,59,alto,alerta calor
-Lechuga,51,medio,3027,alto,21,bajo,estable
-Lechuga,48,medio,2187,medio,20,muy bajo,riego
-Lechuga,77,alto,2971,alto,41,medio,estable
-Lechuga,85,alto,3861,muy alto,58,alto,alerta exceso humedad
-Lechuga,76,alto,2594,alto,29,bajo,estable
-Lechuga,77,alto,2495,alto,45,medio,estable
-Lechuga,71,alto,1682,medio,25,bajo,riego
-Lechuga,51,medio,2419,medio,21,bajo,riego
-Lechuga,71,alto,3555,muy alto,34,bajo,alerta exceso humedad
-Lechuga,28,bajo,3997,muy alto,74,alto,alerta exceso humedad
-Lechuga,55,medio,1754,medio,29,bajo,riego
-Lechuga,45,medio,2573,alto,31,bajo,estable
-Lechuga,77,alto,1883,medio,63,alto,alerta calor
-Lechuga,47,medio,2764,alto,32,bajo,estable
-Lechuga,93,muy alto,3337,muy alto,57,alto,alerta exceso humedad
-Lechuga,69,alto,2688,alto,27,bajo,estable
-Lechuga,70,alto,1641,medio,37,medio,riego
-Lechuga,63,medio,1972,medio,22,bajo,riego
-Lechuga,74,alto,2803,alto,55,medio,ventilación
-Lechuga,92,muy alto,3820,muy alto,59,alto,alerta exceso humedad
-Lechuga,67,alto,1933,medio,50,medio,riego
-Lechuga,85,alto,4012,muy alto,37,medio,alerta exceso humedad
-Lechuga,74,alto,3309,muy alto,33,bajo,alerta exceso humedad
-Lechuga,68,alto,2222,medio,49,medio,riego
-Lechuga,48,medio,3172,alto,37,medio,estable
-Lechuga,98,muy alto,3436,muy alto,59,alto,alerta exceso humedad
-Lechuga,77,alto,1225,bajo,47,medio,riego
-Lechuga,90,muy alto,3010,alto,49,medio,ventilación
-Lechuga,86,muy alto,4076,muy alto,43,medio,alerta exceso humedad
-Lechuga,95,muy alto,3339,muy alto,55,medio,alerta exceso humedad
-Lechuga,46,medio,2542,alto,38,medio,estable
-Lechuga,78,alto,2367,medio,30,bajo,riego
-Lechuga,69,alto,606,muy bajo,46,medio,riego
-Lechuga,81,alto,3280,muy alto,33,bajo,alerta exceso humedad
-Lechuga,99,muy alto,2626,alto,49,medio,ventilación
-Lechuga,90,muy alto,3960,muy alto,48,medio,alerta exceso humedad
-Lechuga,37,bajo,2020,medio,87,muy alto,alerta calor
-Lechuga,62,medio,2329,medio,37,medio,riego
-Lechuga,74,alto,1892,medio,15,muy bajo,riego
-Lechuga,96,muy alto,3692,muy alto,45,medio,alerta exceso humedad
-Lechuga,90,muy alto,3370,muy alto,41,medio,alerta exceso humedad
-Lechuga,81,alto,3266,alto,36,medio,estable
-Lechuga,82,alto,3950,muy alto,45,medio,alerta exceso humedad
-Lechuga,77,alto,2829,alto,38,medio,estable
-Lechuga,91,muy alto,2640,alto,49,medio,ventilación
-Lechuga,93,muy alto,2675,alto,20,muy bajo,estable
-Lechuga,94,muy alto,3405,muy alto,59,alto,alerta exceso humedad
-Lechuga,87,muy alto,2596,alto,53,medio,ventilación
-Lechuga,98,muy alto,2108,medio,78,alto,alerta calor
-Lechuga,78,alto,2915,alto,53,medio,ventilación
-Lechuga,93,muy alto,3221,alto,33,bajo,ventilación
-Lechuga,16,muy bajo,1577,bajo,79,alto,riego
-Lechuga,47,medio,3256,alto,34,bajo,estable
-Lechuga,53,medio,2534,alto,24,bajo,estable
-Lechuga,85,alto,4091,muy alto,49,medio,alerta exceso humedad
-Lechuga,74,alto,3122,alto,57,alto,alerta calor
-Lechuga,11,muy bajo,1740,medio,38,medio,riego
-Lechuga,88,muy alto,2914,alto,43,medio,ventilación
-Lechuga,74,alto,1862,medio,15,muy bajo,riego
-Lechuga,31,bajo,907,bajo,95,muy alto,riego
-Lechuga,100,muy alto,2793,alto,31,bajo,ventilación
-Lechuga,50,medio,2750,alto,47,medio,ventilación
-Lechuga,75,alto,3625,muy alto,35,bajo,alerta exceso humedad
-Lechuga,74,alto,2924,alto,22,bajo,estable
-Lechuga,68,alto,1086,bajo,99,muy alto,riego
+planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,luminosidad,luminosidad_nivel,ventilador,ventilador_nivel,rociador,rociador_nivel,recomendacion
+Lechuga,45,medio,46.875,medio,36.0,medio,53.33333333333333,medio,59.59455356779541,medio,45.00002202468713,medio,estable
+Lechuga,47,medio,50.775000000000006,medio,24.0,bajo,34.333333333333336,bajo,10.472008762037632,bajo,45.000008571744935,medio,estable
+Lechuga,87,alto,100.0,alto,39.0,alto,60.33333333333333,medio,89.89112718854929,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,46,medio,42.575,medio,39.7,alto,62.5,medio,90.01858923431807,alto,0.0,bajo,alerta temperatura
+Lechuga,73,alto,80.72500000000001,alto,37.0,alto,59.0,medio,66.553920987398,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,86,alto,73.35000000000001,alto,31.0,medio,50.0,medio,52.23470110038114,medio,10.802609227911027,bajo,estable
+Lechuga,92,alto,83.025,alto,39.5,alto,65.16666666666667,alto,89.99469589646465,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,81,alto,69.5,alto,38.0,alto,63.66666666666666,alto,89.52799123796237,alto,11.781571184895462,bajo,alerta temperatura
+Lechuga,83,alto,63.9,alto,39.8,alto,67.66666666666666,alto,90.02640547666029,alto,29.481339907848145,medio,alerta temperatura
+Lechuga,86,alto,29.0,bajo,38.73333333333333,alto,66.88888888888889,alto,63.99312201479547,medio,84.83079174649266,alto,alerta temperatura
+Lechuga,96,alto,83.025,alto,40.0,alto,70.0,alto,90.03332004885489,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,40,medio,66.7,alto,30.0,medio,54.33333333333333,medio,48.83982138954186,medio,12.630669187269014,bajo,estable
+Lechuga,60,medio,50.425,medio,39.9,alto,71.83333333333333,alto,90.03135112494135,alto,45.000018715398284,medio,alerta temperatura
+Lechuga,97,alto,91.725,alto,39.43333333333333,alto,72.05555555555554,alto,89.98439495499746,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,69,medio,75.1,alto,39.73333333333333,alto,73.55555555555556,alto,90.02152806843831,alto,10.454079131665553,bajo,alerta temperatura
+Lechuga,93,alto,85.0,alto,39.93333333333333,alto,74.88888888888889,alto,90.03233180540472,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,76,alto,86.4,alto,39.5,alto,75.16666666666667,alto,89.99469589646465,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,97,alto,90.925,alto,39.36666666666667,alto,75.94444444444444,alto,89.97296573243311,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,73,alto,64.875,alto,33.0,medio,66.33333333333334,alto,77.5013112394033,alto,15.87237540197021,bajo,ventilación
+Lechuga,82,alto,72.925,alto,35.0,medio,70.66666666666667,alto,76.15257852136497,medio,10.8974973815317,bajo,ventilación
+Lechuga,44,medio,61.825,medio,39.766666666666666,alto,79.61111111111111,alto,90.02897413147872,alto,40.64358437626082,medio,alerta temperatura
+Lechuga,12,bajo,45.275,medio,23.545454545454547,bajo,32.57575757575758,bajo,10.283971363175347,bajo,45.000099986306566,medio,estable
+Lechuga,84,alto,53.3,medio,30.0,medio,44.33333333333333,medio,0.0,bajo,45.00001297779995,medio,estable
+Lechuga,83,alto,62.125,medio,39.46666666666667,alto,61.11111111111112,medio,89.98970252559965,alto,39.64902071670959,medio,alerta temperatura
+Lechuga,82,alto,66.525,alto,33.0,medio,51.333333333333336,medio,52.76113225298014,medio,12.68681305328099,bajo,estable
+Lechuga,20,bajo,22.725,bajo,39.23333333333333,alto,62.72222222222223,medio,61.987520679659866,medio,86.47862655609137,alto,alerta temperatura
+Lechuga,75,alto,83.675,alto,39.96666666666667,alto,64.94444444444444,alto,90.03298936313521,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,13,bajo,100.0,alto,39.43333333333333,alto,65.05555555555554,alto,89.98439495499746,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,46,medio,64.97500000000001,alto,38.23333333333333,alto,64.05555555555556,alto,89.62892211152734,alto,13.750729333273064,bajo,alerta temperatura
+Lechuga,42,medio,77.45,alto,39.0,alto,66.33333333333333,alto,89.89112718854929,alto,10.114208422214062,bajo,alerta temperatura
+Lechuga,94,alto,81.125,alto,38.0,alto,65.66666666666666,alto,89.52799123796237,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,72,alto,100.0,alto,39.63333333333333,alto,69.38888888888889,alto,90.01182128282355,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,74,alto,65.125,alto,33.0,medio,59.333333333333336,medio,52.58758405002298,medio,13.147114102182872,bajo,estable
+Lechuga,58,medio,78.2,alto,30.0,medio,55.33333333333333,medio,51.45554141718962,medio,10.043514113010405,bajo,estable
+Lechuga,52,medio,76.6,alto,39.7,alto,72.5,alto,90.01858923431807,alto,10.217824091894917,bajo,alerta temperatura
+Lechuga,74,alto,100.0,alto,39.63333333333333,alto,73.38888888888889,alto,90.01182128282355,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,70,medio,59.75,medio,39.73333333333333,alto,74.55555555555556,alto,90.02152806843831,alto,45.000003858531535,medio,alerta temperatura
+Lechuga,7,bajo,80.72500000000001,alto,22.454545454545453,bajo,46.75757575757576,medio,17.11358420726188,bajo,9.966679951145109,bajo,alerta temperatura
+Lechuga,42,medio,72.575,alto,27.0,medio,55.333333333333336,medio,41.87218270477912,medio,10.978372409489573,bajo,estable
+Lechuga,76,alto,73.2,alto,29.0,medio,59.66666666666666,medio,48.34257258391689,medio,10.835673480586241,bajo,estable
+Lechuga,96,alto,98.775,alto,37.0,alto,74.0,alto,80.36780164357994,alto,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,2,bajo,80.30000000000001,alto,25.0,bajo,55.0,medio,35.376786705792284,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,78,alto,88.5,alto,38.0,alto,56.66666666666666,medio,89.52799123796237,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,94,alto,78.05,alto,39.93333333333333,alto,60.888888888888886,medio,90.03233180540472,alto,10.056003940415694,bajo,alerta temperatura
+Lechuga,75,alto,60.12499999999999,medio,38.0,alto,58.66666666666666,medio,89.52799123796237,alto,44.76284960753772,medio,alerta temperatura
+Lechuga,64,medio,45.05,medio,27.0,medio,41.333333333333336,medio,12.3784031266733,bajo,45.00095671160803,medio,estable
+Lechuga,91,alto,87.325,alto,39.0,alto,62.33333333333333,medio,89.89112718854929,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,95,alto,44.125,medio,35.0,medio,56.66666666666667,medio,56.665572305975836,medio,0.0,bajo,estable
+Lechuga,84,alto,94.725,alto,37.0,alto,61.0,medio,66.553920987398,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,71,alto,75.4,alto,39.96666666666667,alto,66.94444444444444,alto,90.03298936313521,alto,10.401824355421889,bajo,alerta temperatura
+Lechuga,72,alto,66.425,alto,31.0,medio,53.0,medio,48.61262651598418,medio,12.719002958240242,bajo,estable
+Lechuga,42,medio,69.05,alto,23.0,bajo,40.66666666666666,medio,20.639580229311054,bajo,11.911335446670703,bajo,alerta temperatura
+Lechuga,74,alto,92.125,alto,38.0,alto,66.66666666666666,alto,89.52799123796237,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,89,alto,72.7,alto,39.66666666666666,alto,70.44444444444444,alto,90.01535188806471,alto,10.949212321033047,bajo,alerta temperatura
+Lechuga,91,alto,65.675,alto,39.36666666666667,alto,70.94444444444444,alto,89.97296573243311,alto,12.963926158549677,bajo,alerta temperatura
+Lechuga,51,medio,75.675,alto,23.90909090909091,bajo,46.18181818181819,medio,28.647161651689967,medio,10.356046569248507,bajo,estable
+Lechuga,48,medio,54.675,medio,23.818181818181817,bajo,47.03030303030303,medio,23.852025756326988,bajo,45.00001019088191,medio,estable
+Lechuga,77,alto,74.275,alto,39.96666666666667,alto,74.94444444444444,alto,90.03298936313521,alto,10.609483163276366,bajo,alerta temperatura
+Lechuga,85,alto,96.525,alto,39.4,alto,75.0,alto,89.97881388722828,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,76,alto,64.85,alto,29.0,medio,58.66666666666666,medio,44.345133620215606,medio,16.373321212575746,bajo,estable
+Lechuga,77,alto,62.375,medio,39.833333333333336,alto,77.72222222222223,alto,90.02838436073421,alto,38.722951467149095,medio,alerta temperatura
+Lechuga,71,alto,42.05,medio,25.0,bajo,54.0,medio,29.546049997795777,medio,0.0,bajo,estable
+Lechuga,51,medio,60.475,medio,23.90909090909091,bajo,53.18181818181819,medio,25.650282103844162,medio,44.0631421718349,medio,estable
+Lechuga,71,alto,88.875,alto,34.0,medio,50.0,medio,58.7322175546228,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,28,bajo,99.925,alto,38.86666666666667,alto,59.11111111111112,medio,89.85389612319277,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,55,medio,43.85,medio,29.0,medio,43.66666666666666,medio,14.058310251125727,bajo,0.0,bajo,estable
+Lechuga,45,medio,64.325,alto,31.0,medio,48.0,medio,49.39308781399788,medio,24.780013437712032,medio,estable
+Lechuga,77,alto,47.075,medio,39.23333333333333,alto,62.72222222222223,medio,89.94684025679112,alto,45.00002071957213,medio,alerta temperatura
+Lechuga,47,medio,69.1,alto,32.0,medio,51.66666666666667,medio,50.05524062426606,medio,11.896771283330466,bajo,estable
+Lechuga,93,alto,83.42500000000001,alto,39.43333333333333,alto,65.05555555555554,alto,89.98439495499746,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,69,medio,67.2,alto,27.0,medio,45.333333333333336,medio,38.306251705937164,medio,12.472167516176919,bajo,estable
+Lechuga,70,medio,41.025,medio,37.0,alto,63.0,medio,70.93823840979526,medio,0.0,bajo,ventilación
+Lechuga,63,medio,49.3,medio,22.0,bajo,39.0,bajo,9.966679951145109,bajo,45.00002692467475,medio,alerta temperatura
+Lechuga,74,alto,70.075,alto,39.5,alto,69.16666666666667,alto,89.99469589646465,alto,11.619935405156005,bajo,alerta temperatura
+Lechuga,92,alto,95.5,alto,39.36666666666667,alto,69.94444444444444,alto,89.97296573243311,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,67,medio,48.325,medio,39.66666666666666,alto,71.44444444444444,alto,90.01535188806471,alto,45.00000398185583,medio,alerta temperatura
+Lechuga,85,alto,100.0,alto,37.0,alto,68.0,alto,79.81567642666195,alto,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,74,alto,82.72500000000001,alto,33.0,medio,62.333333333333336,medio,59.22473365532297,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,68,medio,55.55,medio,39.7,alto,74.5,alto,90.01858923431807,alto,45.00000946611809,medio,alerta temperatura
+Lechuga,48,medio,79.3,alto,37.0,alto,71.0,alto,79.81567642666195,alto,9.979627206751067,bajo,ventilación
+Lechuga,98,alto,85.9,alto,39.36666666666667,alto,75.94444444444444,alto,89.97296573243311,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,77,alto,30.625000000000004,bajo,39.766666666666666,alto,77.61111111111111,alto,65.52672565226231,medio,84.23496190128645,alto,alerta temperatura
+Lechuga,90,alto,75.25,alto,39.7,alto,78.5,alto,90.01858923431807,alto,10.427656181287585,bajo,alerta temperatura
+Lechuga,86,alto,100.0,alto,39.9,alto,79.83333333333333,alto,90.03233180540472,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,95,alto,83.475,alto,39.5,alto,59.16666666666667,medio,89.99469589646465,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,46,medio,63.55,alto,38.0,alto,57.66666666666666,medio,89.52799123796237,alto,32.43105575757311,medio,alerta temperatura
+Lechuga,78,alto,59.175,medio,30.0,medio,45.33333333333333,medio,45.00040372715622,medio,45.000017617662394,medio,estable
+Lechuga,69,medio,15.15,bajo,39.8,alto,62.66666666666666,medio,61.919215678582496,medio,86.69999334667001,alto,alerta temperatura
+Lechuga,81,alto,82.0,alto,33.0,medio,52.333333333333336,medio,54.59988263036732,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,99,alto,65.64999999999999,alto,39.7,alto,64.5,alto,90.01858923431807,alto,12.972225093776574,bajo,alerta temperatura
+Lechuga,90,alto,99.0,alto,39.73333333333333,alto,65.55555555555556,alto,90.02152806843831,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,37,medio,50.5,medio,38.43333333333333,alto,64.38888888888889,alto,89.70804868514577,alto,45.00002131022432,medio,alerta temperatura
+Lechuga,62,medio,58.225,medio,37.0,alto,63.0,medio,70.93823840979526,medio,45.00000539571515,medio,ventilación
+Lechuga,74,alto,47.3,medio,23.363636363636363,bajo,41.27272727272727,medio,10.219059837946787,bajo,45.00004791164691,medio,estable
+Lechuga,96,alto,92.3,alto,39.833333333333336,alto,69.72222222222223,alto,90.02838436073421,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,90,alto,84.25,alto,39.96666666666667,alto,70.94444444444444,alto,90.03298936313521,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,81,alto,81.65,alto,36.0,medio,65.33333333333333,alto,75.70966604458808,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,82,alto,98.75,alto,39.833333333333336,alto,72.72222222222223,alto,90.02838436073421,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,77,alto,70.72500000000001,alto,38.0,alto,70.66666666666666,alto,89.52799123796237,alto,11.443161319764727,bajo,alerta temperatura
+Lechuga,91,alto,66.0,alto,39.7,alto,74.5,alto,90.01858923431807,alto,12.85710132004758,bajo,alerta temperatura
+Lechuga,93,alto,66.875,alto,23.818181818181817,bajo,49.03030303030303,medio,29.385048572324607,medio,12.574876562071339,bajo,estable
+Lechuga,94,alto,85.125,alto,39.36666666666667,alto,75.94444444444444,alto,89.97296573243311,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,87,alto,64.9,alto,39.56666666666667,alto,77.27777777777779,alto,90.00384937779621,alto,15.360016858128564,bajo,alerta temperatura
+Lechuga,98,alto,52.7,medio,38.73333333333333,alto,76.88888888888889,alto,89.82002704021386,alto,45.00001486406862,medio,alerta temperatura
+Lechuga,78,alto,72.875,alto,39.56666666666667,alto,79.27777777777779,alto,90.01960112292758,alto,10.908903156601578,bajo,alerta temperatura
+Lechuga,93,alto,80.525,alto,33.0,medio,48.333333333333336,medio,58.0042275904903,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,16,bajo,39.425,bajo,38.7,alto,58.83333333333334,medio,85.85016455402254,alto,80.31081165961078,alto,alerta temperatura
+Lechuga,47,medio,81.39999999999999,alto,34.0,medio,52.0,medio,57.29307107117049,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,53,medio,63.35,alto,24.0,bajo,36.333333333333336,bajo,23.894471720386417,bajo,33.834975104946345,medio,estable
+Lechuga,85,alto,100.0,alto,39.7,alto,63.5,alto,90.01858923431807,alto,9.966679951145109,bajo,alerta temperatura
+Lechuga,74,alto,78.05,alto,39.43333333333333,alto,64.05555555555554,alto,89.98439495499746,alto,10.056003940415694,bajo,alerta temperatura
+Lechuga,11,bajo,43.5,medio,38.0,alto,62.66666666666666,medio,89.52799123796237,alto,0.0,bajo,alerta temperatura
+Lechuga,88,alto,72.85000000000001,alto,39.9,alto,66.83333333333333,alto,90.03135112494135,alto,10.914624250575839,bajo,alerta temperatura
+Lechuga,74,alto,46.55,medio,23.363636363636363,bajo,40.27272727272727,medio,10.219059837946787,bajo,45.00003966161849,medio,estable
+Lechuga,31,medio,22.675,bajo,38.16666666666666,alto,65.94444444444444,alto,61.75373193724301,medio,86.48613359317028,alto,alerta temperatura
+Lechuga,100,alto,69.825,alto,31.0,medio,55.0,medio,50.070749802642354,medio,11.689621720182034,bajo,estable
+Lechuga,50,medio,68.75,alto,39.766666666666666,alto,70.61111111111111,alto,90.02411890067957,alto,11.999346729362212,bajo,alerta temperatura
+Lechuga,75,alto,90.625,alto,35.0,medio,63.66666666666667,alto,68.09029155630598,medio,9.966679951145109,bajo,alerta exceso humedad
+Lechuga,74,alto,73.1,alto,22.0,bajo,43.0,medio,9.966679951145109,bajo,10.85797732079368,bajo,alerta temperatura
+Lechuga,68,medio,27.15,bajo,38.03333333333333,alto,70.72222222222221,alto,62.51574229572477,medio,85.43821821652197,alto,alerta temperatura

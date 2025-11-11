@@ -1,121 +1,121 @@
-planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,recomendacion
-Tomate,62,medio,3292,muy alto,34,bajo,alerta exceso humedad
-Tomate,21,bajo,2706,alto,18,muy bajo,estable
-Tomate,79,alto,2249,medio,73,alto,alerta calor
-Tomate,13,muy bajo,2958,alto,48,medio,estable
-Tomate,69,alto,2495,alto,55,medio,ventilación
-Tomate,99,muy alto,3600,muy alto,86,muy alto,alerta exceso humedad
-Tomate,41,medio,2013,medio,49,medio,estable
-Tomate,56,medio,1779,medio,80,alto,alerta calor
-Tomate,85,alto,2745,alto,67,alto,alerta calor
-Tomate,86,muy alto,2981,alto,74,alto,alerta calor
-Tomate,85,alto,2853,alto,71,alto,alerta calor
-Tomate,6,muy bajo,2310,medio,94,muy alto,alerta calor
-Tomate,95,muy alto,2031,medio,73,alto,alerta calor
-Tomate,95,muy alto,2640,alto,88,muy alto,alerta calor
-Tomate,70,alto,4069,muy alto,87,muy alto,alerta exceso humedad
-Tomate,94,muy alto,2281,medio,86,muy alto,alerta calor
-Tomate,100,muy alto,4060,muy alto,78,alto,alerta exceso humedad
-Tomate,23,bajo,952,bajo,45,medio,riego
-Tomate,86,muy alto,3735,muy alto,86,muy alto,alerta exceso humedad
-Tomate,46,medio,2975,alto,72,alto,alerta calor
-Tomate,52,medio,2233,medio,69,alto,alerta calor
-Tomate,72,alto,3168,alto,47,medio,ventilación
-Tomate,75,alto,2764,alto,51,medio,ventilación
-Tomate,70,alto,3527,muy alto,63,alto,alerta exceso humedad
-Tomate,68,alto,2508,alto,70,alto,alerta calor
-Tomate,95,muy alto,2968,alto,80,alto,alerta calor
-Tomate,86,muy alto,2325,medio,65,alto,ventilación
-Tomate,66,alto,1680,medio,45,medio,ventilación
-Tomate,85,alto,3253,alto,69,alto,alerta calor
-Tomate,28,bajo,3023,alto,99,muy alto,alerta calor
-Tomate,66,alto,2541,alto,56,alto,ventilación
-Tomate,49,medio,2351,medio,97,muy alto,alerta calor
-Tomate,52,medio,1802,medio,79,alto,alerta calor
-Tomate,29,bajo,377,muy bajo,90,muy alto,riego
-Tomate,100,muy alto,3438,muy alto,81,muy alto,alerta exceso humedad
-Tomate,88,muy alto,2666,alto,61,alto,ventilación
-Tomate,58,medio,2358,medio,46,medio,estable
-Tomate,86,muy alto,3930,muy alto,87,muy alto,alerta exceso humedad
-Tomate,87,muy alto,3215,alto,68,alto,alerta calor
-Tomate,93,muy alto,3951,muy alto,74,alto,alerta exceso humedad
-Tomate,71,alto,4053,muy alto,61,alto,alerta exceso humedad
-Tomate,53,medio,2360,medio,52,medio,estable
-Tomate,75,alto,2454,medio,71,alto,alerta calor
-Tomate,18,muy bajo,3299,muy alto,94,muy alto,alerta exceso humedad
-Tomate,81,alto,2801,alto,94,muy alto,alerta calor
-Tomate,96,muy alto,3596,muy alto,85,muy alto,alerta exceso humedad
-Tomate,79,alto,2410,medio,77,alto,alerta calor
-Tomate,81,alto,3872,muy alto,86,muy alto,alerta exceso humedad
-Tomate,35,bajo,3532,muy alto,60,alto,alerta exceso humedad
-Tomate,54,medio,3013,alto,63,alto,estable
-Tomate,64,medio,3253,alto,48,medio,ventilación
-Tomate,72,alto,3675,muy alto,79,alto,alerta exceso humedad
-Tomate,78,alto,2725,alto,46,medio,ventilación
-Tomate,77,alto,2021,medio,71,alto,alerta calor
-Tomate,89,muy alto,2584,alto,86,muy alto,alerta calor
-Tomate,72,alto,2988,alto,67,alto,alerta calor
-Tomate,89,muy alto,2625,alto,63,alto,ventilación
-Tomate,91,muy alto,530,muy bajo,96,muy alto,riego
-Tomate,58,medio,2404,medio,66,alto,alerta calor
-Tomate,78,alto,2207,medio,80,alto,alerta calor
-Tomate,64,medio,1751,medio,78,alto,alerta calor
-Tomate,66,alto,2643,alto,51,medio,ventilación
-Tomate,77,alto,3012,alto,87,muy alto,alerta calor
-Tomate,97,muy alto,3427,muy alto,93,muy alto,alerta exceso humedad
-Tomate,59,medio,1885,medio,72,alto,alerta calor
-Tomate,96,muy alto,2503,alto,90,muy alto,alerta calor
-Tomate,63,medio,2872,alto,98,muy alto,alerta calor
-Tomate,51,medio,1293,bajo,13,muy bajo,riego
-Tomate,68,alto,2741,alto,24,bajo,ventilación
-Tomate,76,alto,2922,alto,47,medio,ventilación
-Tomate,97,muy alto,3319,muy alto,63,alto,alerta exceso humedad
-Tomate,64,medio,2358,medio,80,alto,alerta calor
-Tomate,43,medio,2761,alto,65,alto,estable
-Tomate,91,muy alto,2525,alto,75,alto,alerta calor
-Tomate,98,muy alto,3653,muy alto,75,alto,alerta exceso humedad
-Tomate,97,muy alto,3290,muy alto,71,alto,alerta exceso humedad
-Tomate,94,muy alto,4013,muy alto,93,muy alto,alerta exceso humedad
-Tomate,13,muy bajo,2159,medio,57,alto,estable
-Tomate,88,muy alto,1473,bajo,47,medio,riego
-Tomate,78,alto,3961,muy alto,65,alto,alerta exceso humedad
-Tomate,92,muy alto,3029,alto,69,alto,alerta calor
-Tomate,86,muy alto,2951,alto,77,alto,alerta calor
-Tomate,98,muy alto,4094,muy alto,27,bajo,alerta exceso humedad
-Tomate,79,alto,2902,alto,40,medio,ventilación
-Tomate,90,muy alto,2083,medio,82,muy alto,alerta calor
-Tomate,71,alto,3001,alto,94,muy alto,alerta calor
-Tomate,98,muy alto,3785,muy alto,70,alto,alerta exceso humedad
-Tomate,84,alto,1933,medio,60,alto,ventilación
-Tomate,70,alto,3951,muy alto,90,muy alto,alerta exceso humedad
-Tomate,40,bajo,2045,medio,62,alto,estable
-Tomate,96,muy alto,3031,alto,82,muy alto,alerta calor
-Tomate,90,muy alto,2698,alto,74,alto,alerta calor
-Tomate,93,muy alto,2651,alto,71,alto,alerta calor
-Tomate,51,medio,2568,alto,52,medio,estable
-Tomate,95,muy alto,2704,alto,93,muy alto,alerta calor
-Tomate,88,muy alto,3638,muy alto,77,alto,alerta exceso humedad
-Tomate,87,muy alto,2688,alto,77,alto,alerta calor
-Tomate,75,alto,2661,alto,95,muy alto,alerta calor
-Tomate,23,bajo,2045,medio,0,muy bajo,estable
-Tomate,51,medio,2882,alto,53,medio,estable
-Tomate,97,muy alto,3732,muy alto,73,alto,alerta exceso humedad
-Tomate,36,bajo,3631,muy alto,2,muy bajo,alerta exceso humedad
-Tomate,72,alto,2539,alto,70,alto,alerta calor
-Tomate,90,muy alto,3740,muy alto,92,muy alto,alerta exceso humedad
-Tomate,73,alto,3656,muy alto,70,alto,alerta exceso humedad
-Tomate,71,alto,2988,alto,79,alto,alerta calor
-Tomate,98,muy alto,2936,alto,72,alto,alerta calor
-Tomate,82,alto,3517,muy alto,79,alto,alerta exceso humedad
-Tomate,74,alto,1859,medio,76,alto,alerta calor
-Tomate,98,muy alto,2666,alto,68,alto,alerta calor
-Tomate,71,alto,3399,muy alto,85,muy alto,alerta exceso humedad
-Tomate,94,muy alto,2460,alto,71,alto,alerta calor
-Tomate,77,alto,2239,medio,63,alto,ventilación
-Tomate,92,muy alto,3948,muy alto,64,alto,alerta exceso humedad
-Tomate,70,alto,3232,alto,79,alto,alerta calor
-Tomate,75,alto,2024,medio,81,muy alto,alerta calor
-Tomate,62,medio,50,muy bajo,41,medio,riego
-Tomate,58,medio,2772,alto,51,medio,estable
-Tomate,73,alto,3190,alto,70,alto,alerta calor
-Tomate,63,medio,3072,alto,59,alto,ventilación
+planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,luminosidad,luminosidad_nivel,ventilador,ventilador_nivel,rociador,rociador_nivel,recomendacion
+Tomate,62,medio,82.3,alto,34.0,medio,50.0,medio,58.7322175546228,medio,9.966679951145109,bajo,alerta exceso humedad
+Tomate,21,bajo,67.65,alto,23.63636363636364,bajo,33.72727272727273,bajo,25.439778656133832,medio,12.33193231760715,bajo,estable
+Tomate,79,alto,56.225,medio,38.9,alto,60.16666666666666,medio,89.86356412397052,alto,45.000008134162286,medio,alerta temperatura
+Tomate,13,bajo,73.95,alto,39.73333333333333,alto,62.55555555555556,medio,90.02152806843831,alto,10.675164815052442,bajo,alerta temperatura
+Tomate,69,medio,62.375,medio,39.5,alto,63.16666666666667,medio,89.99469589646465,alto,38.722951467149095,medio,alerta temperatura
+Tomate,99,alto,90.0,alto,38.46666666666667,alto,62.44444444444445,medio,89.72054014839696,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,41,medio,50.325,medio,39.7,alto,65.5,alto,90.01858923431807,alto,45.00000702360168,medio,alerta temperatura
+Tomate,56,medio,44.475,medio,38.66666666666666,alto,64.77777777777777,alto,89.79114712771577,alto,0.0,bajo,alerta temperatura
+Tomate,85,alto,68.625,alto,39.1,alto,66.5,alto,89.91651642089458,alto,12.036371645770938,bajo,alerta temperatura
+Tomate,86,alto,74.52499999999999,alto,38.86666666666667,alto,67.11111111111111,alto,89.85389612319277,alto,10.560632730765185,bajo,alerta temperatura
+Tomate,85,alto,71.325,alto,38.96666666666667,alto,68.27777777777777,alto,89.88217958226687,alto,11.28592775515651,bajo,alerta temperatura
+Tomate,6,bajo,57.75,medio,38.2,alto,68.0,alto,89.6150535006216,alto,45.00000703229485,medio,alerta temperatura
+Tomate,95,alto,50.775000000000006,medio,38.9,alto,70.16666666666666,alto,89.86356412397052,alto,45.000008571744935,medio,alerta temperatura
+Tomate,95,alto,66.0,alto,38.4,alto,70.33333333333333,alto,89.69536132483468,alto,12.85710132004758,bajo,alerta temperatura
+Tomate,70,medio,100.0,alto,38.43333333333333,alto,71.38888888888889,alto,89.70804868514577,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,94,alto,57.025000000000006,medio,38.46666666666667,alto,72.44444444444446,alto,89.72054014839696,alto,45.00000682643338,medio,alerta temperatura
+Tomate,100,alto,100.0,alto,38.73333333333333,alto,73.88888888888889,alto,89.81295099520719,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,23,bajo,23.8,bajo,39.833333333333336,alto,76.72222222222223,alto,62.305540808531994,medio,86.29104042143624,alto,alerta temperatura
+Tomate,86,alto,93.375,alto,38.46666666666667,alto,75.44444444444446,alto,89.72054014839696,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,46,medio,74.375,alto,38.93333333333333,alto,77.22222222222221,alto,89.87300064521501,alto,10.589767536295486,bajo,alerta temperatura
+Tomate,52,medio,55.825,medio,39.03333333333333,alto,78.38888888888889,alto,89.9709602872416,alto,45.00000875634891,medio,alerta temperatura
+Tomate,72,alto,79.2,alto,39.766666666666666,alto,59.61111111111111,medio,90.02411890067957,alto,9.983295799534348,bajo,alerta temperatura
+Tomate,75,alto,69.1,alto,39.63333333333333,alto,60.388888888888886,medio,90.01182128282355,alto,11.896771283330466,bajo,alerta temperatura
+Tomate,70,medio,88.175,alto,39.23333333333333,alto,60.72222222222223,medio,89.94684025679112,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,68,medio,62.7,medio,39.0,alto,61.33333333333333,medio,89.89112718854929,alto,37.35491685322605,medio,alerta temperatura
+Tomate,95,alto,74.2,alto,38.66666666666666,alto,61.77777777777777,medio,89.79114712771577,alto,10.624422221611804,bajo,alerta temperatura
+Tomate,86,alto,58.12500000000001,medio,39.16666666666666,alto,63.61111111111111,alto,89.93219379129562,alto,45.00001176583756,medio,alerta temperatura
+Tomate,66,medio,42.0,medio,39.833333333333336,alto,65.72222222222223,alto,90.02838436073421,alto,0.0,bajo,alerta temperatura
+Tomate,85,alto,81.325,alto,39.03333333333333,alto,65.38888888888889,alto,89.89984118457784,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,28,bajo,75.575,alto,38.03333333333333,alto,64.72222222222221,alto,89.54295029021345,alto,10.372458596765782,bajo,alerta temperatura
+Tomate,66,medio,63.525,alto,39.46666666666667,alto,68.11111111111111,alto,89.98970252559965,alto,32.616505397402626,medio,alerta temperatura
+Tomate,49,medio,58.775,medio,38.1,alto,66.83333333333334,alto,89.57234381871243,alto,45.00001663375731,medio,alerta temperatura
+Tomate,52,medio,45.05,medio,38.7,alto,68.83333333333334,alto,89.80215533007545,alto,45.00095671160803,medio,alerta temperatura
+Tomate,29,bajo,9.425,bajo,38.333333333333336,alto,69.22222222222223,alto,61.77990463329577,medio,86.69999334667001,alto,alerta temperatura
+Tomate,100,alto,85.95,alto,38.63333333333333,alto,70.72222222222223,alto,89.77990509817154,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,88,alto,66.64999999999999,alto,39.3,alto,72.83333333333333,alto,89.96044206314825,alto,12.646694764563682,bajo,alerta temperatura
+Tomate,58,medio,58.95,medio,39.8,alto,74.66666666666666,alto,90.02640547666029,alto,45.00000531917327,medio,alerta temperatura
+Tomate,86,alto,98.25,alto,38.43333333333333,alto,73.38888888888889,alto,89.70804868514577,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,87,alto,80.375,alto,39.06666666666667,alto,75.44444444444446,alto,89.90831406362376,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,93,alto,98.775,alto,38.86666666666667,alto,76.11111111111111,alto,89.85389612319277,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,71,alto,100.0,alto,39.3,alto,77.83333333333333,alto,89.96044206314825,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,53,medio,59.0,medio,39.6,alto,79.33333333333334,alto,90.02152806843831,alto,45.00001003007015,medio,alerta temperatura
+Tomate,75,alto,61.35,medio,38.96666666666667,alto,58.27777777777778,medio,89.88217958226687,alto,42.0119470949853,medio,alerta temperatura
+Tomate,18,bajo,82.475,alto,38.2,alto,58.0,medio,89.6150535006216,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,81,alto,70.025,alto,38.2,alto,59.0,medio,89.6150535006216,alto,11.633797034894696,bajo,alerta temperatura
+Tomate,96,alto,89.9,alto,38.5,alto,60.5,medio,89.73283397222909,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,79,alto,60.25,medio,38.766666666666666,alto,61.94444444444444,medio,89.82353213002813,alto,44.51932904645148,medio,alerta temperatura
+Tomate,81,alto,96.8,alto,38.46666666666667,alto,62.44444444444445,medio,89.72054014839696,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,35,medio,88.3,alto,39.333333333333336,alto,64.88888888888889,alto,89.96685328328175,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,54,medio,75.325,alto,39.23333333333333,alto,65.72222222222223,alto,89.94684025679112,alto,10.414663631735333,bajo,alerta temperatura
+Tomate,64,medio,81.325,alto,39.73333333333333,alto,67.55555555555556,alto,90.02152806843831,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,72,alto,91.875,alto,38.7,alto,66.83333333333334,alto,89.80215533007545,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,78,alto,68.125,alto,39.8,alto,69.66666666666666,alto,90.02640547666029,alto,12.186485795577987,bajo,alerta temperatura
+Tomate,77,alto,50.525,medio,38.96666666666667,alto,69.27777777777777,alto,89.88217958226687,alto,45.00000721793814,medio,alerta temperatura
+Tomate,89,alto,64.60000000000001,alto,38.46666666666667,alto,69.44444444444446,alto,89.72054014839696,alto,20.828373853284855,bajo,alerta temperatura
+Tomate,72,alto,74.7,alto,39.1,alto,71.5,alto,89.91651642089458,alto,10.527338974856264,bajo,alerta temperatura
+Tomate,89,alto,65.625,alto,39.23333333333333,alto,72.72222222222223,alto,89.94684025679112,alto,12.980452060438221,bajo,alerta temperatura
+Tomate,91,alto,13.25,bajo,38.13333333333333,alto,71.88888888888889,alto,61.74830539224573,medio,86.69999334667001,alto,alerta temperatura
+Tomate,58,medio,60.1,medio,39.13333333333333,alto,74.55555555555556,alto,89.92447714289452,alto,44.81083751791524,medio,alerta temperatura
+Tomate,78,alto,55.175,medio,38.66666666666666,alto,74.77777777777777,alto,89.79114712771577,alto,45.00001027110634,medio,alerta temperatura
+Tomate,64,medio,43.775,medio,38.73333333333333,alto,75.88888888888889,alto,89.81295099520719,alto,0.0,bajo,alerta temperatura
+Tomate,66,medio,66.07499999999999,alto,39.63333333333333,alto,78.38888888888889,alto,90.01182128282355,alto,12.832588147720402,bajo,alerta temperatura
+Tomate,77,alto,75.3,alto,38.43333333333333,alto,77.38888888888889,alto,89.8791492548904,alto,10.418984415973288,bajo,alerta temperatura
+Tomate,97,alto,85.675,alto,38.23333333333333,alto,57.05555555555556,medio,89.62892211152734,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,59,medio,47.125,medio,38.93333333333333,alto,59.22222222222221,medio,89.87300064521501,alto,44.999999615796966,medio,alerta temperatura
+Tomate,96,alto,62.575,medio,38.333333333333336,alto,59.22222222222223,medio,89.66936385266764,alto,37.90569203060486,medio,alerta temperatura
+Tomate,63,medio,71.8,alto,38.06666666666667,alto,59.777777777777786,medio,89.55773495711635,alto,11.16574792525707,bajo,alerta temperatura
+Tomate,51,medio,32.325,bajo,23.181818181818183,bajo,35.96969696969697,bajo,21.062353240831396,bajo,83.55925063544412,alto,riego
+Tomate,68,medio,68.525,alto,24.0,bajo,38.333333333333336,bajo,27.79034325169028,medio,12.066154605041223,bajo,estable
+Tomate,76,alto,73.05,alto,39.766666666666666,alto,65.61111111111111,alto,90.02411890067957,alto,10.869204905789182,bajo,alerta temperatura
+Tomate,97,alto,82.975,alto,39.23333333333333,alto,65.72222222222223,alto,89.94684025679112,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,64,medio,58.95,medio,38.66666666666666,alto,65.77777777777777,alto,89.79114712771577,alto,45.00000531917327,medio,alerta temperatura
+Tomate,43,medio,69.025,alto,39.16666666666666,alto,67.61111111111111,alto,89.93219379129562,alto,11.918612791028595,bajo,alerta temperatura
+Tomate,91,alto,63.125,medio,38.833333333333336,alto,68.05555555555556,alto,89.84400434533903,alto,35.19958093909442,medio,alerta temperatura
+Tomate,98,alto,91.325,alto,38.833333333333336,alto,69.05555555555556,alto,89.84400434533903,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,97,alto,82.25,alto,38.96666666666667,alto,70.27777777777777,alto,89.88217958226687,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,94,alto,100.0,alto,38.23333333333333,alto,70.05555555555556,alto,89.62892211152734,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,13,bajo,53.975,medio,39.43333333333333,alto,73.05555555555554,alto,89.98439495499746,alto,45.00000844718526,medio,alerta temperatura
+Tomate,88,alto,36.825,bajo,39.766666666666666,alto,74.61111111111111,alto,75.29884948542663,medio,81.56690814403142,alto,alerta temperatura
+Tomate,78,alto,99.025,alto,39.16666666666666,alto,74.61111111111111,alto,89.93219379129562,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,92,alto,75.725,alto,39.03333333333333,alto,75.38888888888889,alto,89.89984118457784,alto,10.347940834340168,bajo,alerta temperatura
+Tomate,86,alto,73.775,alto,38.766666666666666,alto,75.94444444444444,alto,89.82353213002813,alto,10.711522099792054,bajo,alerta temperatura
+Tomate,98,alto,100.0,alto,27.0,medio,57.333333333333336,medio,41.87218270477912,medio,9.966679951145109,bajo,alerta exceso humedad
+Tomate,79,alto,72.55,alto,40.0,alto,80.0,alto,90.03332004885489,alto,10.984240755757261,bajo,alerta temperatura
+Tomate,90,alto,52.075,medio,38.6,alto,57.66666666666667,medio,89.76844940186491,alto,45.000011633074855,medio,alerta temperatura
+Tomate,71,alto,75.02499999999999,alto,38.2,alto,58.0,medio,89.6150535006216,alto,10.467507070123538,bajo,alerta temperatura
+Tomate,98,alto,94.625,alto,39.0,alto,60.33333333333333,medio,89.89112718854929,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,84,alto,48.325,medio,39.333333333333336,alto,61.88888888888889,medio,89.96685328328175,alto,45.00000398185583,medio,alerta temperatura
+Tomate,70,medio,98.775,alto,38.333333333333336,alto,61.22222222222223,medio,89.66936385266764,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,40,medio,51.125,medio,39.266666666666666,alto,63.77777777777778,alto,89.95376876747912,alto,45.000007738140745,medio,alerta temperatura
+Tomate,96,alto,75.775,alto,38.6,alto,63.66666666666667,alto,89.76844940186491,alto,10.339916384023429,bajo,alerta temperatura
+Tomate,90,alto,67.45,alto,38.86666666666667,alto,65.11111111111111,alto,89.85389612319277,alto,12.393975909570898,bajo,alerta temperatura
+Tomate,93,alto,66.27499999999999,alto,38.96666666666667,alto,66.27777777777777,alto,89.88217958226687,alto,12.767528675061682,bajo,alerta temperatura
+Tomate,51,medio,64.2,alto,39.6,alto,68.33333333333334,alto,90.0080006230454,alto,26.316999280821364,medio,alerta temperatura
+Tomate,95,alto,67.60000000000001,alto,38.23333333333333,alto,67.05555555555556,alto,89.62892211152734,alto,12.347389128836557,bajo,alerta temperatura
+Tomate,88,alto,90.95,alto,38.766666666666666,alto,68.94444444444444,alto,89.82353213002813,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,87,alto,67.2,alto,38.766666666666666,alto,69.94444444444444,alto,89.82353213002813,alto,12.472167516176919,bajo,alerta temperatura
+Tomate,75,alto,66.525,alto,38.16666666666666,alto,69.94444444444444,alto,89.60100223319054,alto,12.68681305328099,bajo,alerta temperatura
+Tomate,23,bajo,51.125,medio,22.0,bajo,44.0,medio,9.966679951145109,bajo,45.000007738140745,medio,alerta temperatura
+Tomate,51,medio,72.05,alto,39.56666666666667,alto,74.27777777777779,alto,90.00384937779621,alto,11.104094429829683,bajo,alerta temperatura
+Tomate,97,alto,93.3,alto,38.9,alto,74.16666666666666,alto,89.86356412397052,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,36,medio,90.775,alto,22.181818181818183,bajo,47.30303030303031,medio,13.127313399076366,bajo,9.966679951145109,bajo,alerta temperatura
+Tomate,72,alto,63.475,alto,39.0,alto,76.33333333333333,alto,89.89112718854929,alto,32.97883164485533,medio,alerta temperatura
+Tomate,90,alto,93.5,alto,38.266666666666666,alto,76.11111111111111,alto,89.71223641124196,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,73,alto,91.4,alto,39.0,alto,78.33333333333333,alto,89.96685328328176,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,71,alto,74.7,alto,38.7,alto,57.83333333333334,medio,89.80215533007545,alto,10.527338974856264,bajo,alerta temperatura
+Tomate,98,alto,73.4,alto,38.93333333333333,alto,59.22222222222221,medio,89.87300064521501,alto,10.791690751042994,bajo,alerta temperatura
+Tomate,82,alto,87.925,alto,38.7,alto,59.83333333333334,medio,89.80215533007545,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,74,alto,46.475,medio,38.8,alto,60.99999999999999,medio,89.83389092180226,alto,45.00002568312976,medio,alerta temperatura
+Tomate,98,alto,66.64999999999999,alto,39.06666666666667,alto,62.44444444444445,medio,89.90831406362376,alto,12.646694764563682,bajo,alerta temperatura
+Tomate,71,alto,84.975,alto,38.5,alto,62.5,medio,89.73283397222909,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,94,alto,61.5,medio,38.96666666666667,alto,64.27777777777777,alto,89.88217958226687,alto,41.60353885982145,medio,alerta temperatura
+Tomate,77,alto,55.975,medio,39.23333333333333,alto,65.72222222222223,alto,89.94684025679112,alto,45.000011489720414,medio,alerta temperatura
+Tomate,92,alto,98.7,alto,39.2,alto,66.66666666666667,alto,89.93965914007892,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,70,medio,80.80000000000001,alto,38.7,alto,66.83333333333334,alto,89.80215533007545,alto,9.966679951145109,bajo,alerta temperatura
+Tomate,75,alto,50.6,medio,38.63333333333333,alto,67.72222222222223,alto,89.77990509817154,alto,45.00001003007014,medio,alerta temperatura
+Tomate,62,medio,50.0,medio,39.96666666666667,alto,70.94444444444444,alto,90.03298936313521,alto,45.00001003007015,medio,alerta temperatura
+Tomate,58,medio,69.3,alto,39.63333333333333,alto,71.38888888888889,alto,90.01182128282355,alto,11.838895608049745,bajo,alerta temperatura
+Tomate,73,alto,79.75,alto,39.0,alto,71.33333333333333,alto,89.89112718854929,alto,9.96864887505864,bajo,alerta temperatura
+Tomate,63,medio,76.8,alto,39.36666666666667,alto,72.94444444444444,alto,89.97296573243311,alto,10.19132926240893,bajo,alerta temperatura

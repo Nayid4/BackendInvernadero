@@ -1,123 +1,123 @@
-planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,recomendacion
-Pimentón,69,alto,1899,medio,71,alto,estable
-Pimentón,51,medio,2800,alto,76,alto,alerta calor
-Pimentón,71,alto,2796,alto,74,alto,ventilación
-Pimentón,66,alto,2936,alto,62,alto,estable
-Pimentón,52,medio,2857,alto,65,alto,estable
-Pimentón,62,medio,2766,alto,68,alto,estable
-Pimentón,74,alto,2529,alto,58,alto,ventilación
-Pimentón,21,bajo,2026,medio,71,alto,estable
-Pimentón,52,medio,2039,medio,72,alto,estable
-Pimentón,51,medio,3166,alto,58,alto,estable
-Pimentón,54,medio,2213,medio,63,alto,estable
-Pimentón,60,medio,943,bajo,56,alto,riego
-Pimentón,55,medio,2275,medio,59,alto,estable
-Pimentón,46,medio,2939,alto,70,alto,estable
-Pimentón,55,medio,2814,alto,55,medio,estable
-Pimentón,60,medio,2423,medio,75,alto,estable
-Pimentón,60,medio,1765,medio,68,alto,estable
-Pimentón,15,muy bajo,1235,bajo,54,medio,riego
-Pimentón,28,bajo,1125,bajo,52,medio,riego
-Pimentón,70,alto,3221,alto,73,alto,estable
-Pimentón,12,muy bajo,2122,medio,54,medio,estable
-Pimentón,86,muy alto,1185,bajo,60,alto,riego
-Pimentón,52,medio,3197,alto,62,alto,estable
-Pimentón,79,alto,3876,muy alto,40,medio,alerta exceso humedad
-Pimentón,84,alto,992,bajo,76,alto,riego
-Pimentón,52,medio,2304,medio,73,alto,estable
-Pimentón,69,alto,3001,alto,61,alto,estable
-Pimentón,25,bajo,1725,medio,82,muy alto,alerta calor
-Pimentón,64,medio,1694,medio,56,alto,estable
-Pimentón,32,bajo,1333,bajo,88,muy alto,riego
-Pimentón,73,alto,1686,medio,58,alto,ventilación
-Pimentón,41,medio,408,muy bajo,71,alto,riego
-Pimentón,64,medio,2218,medio,60,alto,estable
-Pimentón,45,medio,2949,alto,41,medio,estable
-Pimentón,60,medio,2500,alto,30,bajo,estable
-Pimentón,80,alto,66,muy bajo,71,alto,riego
-Pimentón,78,alto,2217,medio,62,alto,ventilación
-Pimentón,98,muy alto,943,bajo,87,muy alto,riego
-Pimentón,53,medio,1772,medio,73,alto,estable
-Pimentón,81,alto,3883,muy alto,79,alto,alerta exceso humedad
-Pimentón,14,muy bajo,1755,medio,87,muy alto,alerta calor
-Pimentón,55,medio,2188,medio,62,alto,estable
-Pimentón,55,medio,2993,alto,70,alto,estable
-Pimentón,67,alto,1314,bajo,82,muy alto,riego
-Pimentón,22,bajo,3418,muy alto,66,alto,alerta exceso humedad
-Pimentón,99,muy alto,1963,medio,55,medio,ventilación
-Pimentón,91,muy alto,1878,medio,56,alto,ventilación
-Pimentón,45,medio,3193,alto,59,alto,estable
-Pimentón,98,muy alto,1401,bajo,64,alto,riego
-Pimentón,87,muy alto,2294,medio,80,alto,alerta calor
-Pimentón,68,alto,3239,alto,73,alto,estable
-Pimentón,69,alto,3195,alto,69,alto,estable
-Pimentón,23,bajo,812,muy bajo,52,medio,riego
-Pimentón,39,bajo,3112,alto,78,alto,alerta calor
-Pimentón,73,alto,2999,alto,62,alto,ventilación
-Pimentón,59,medio,3034,alto,60,alto,estable
-Pimentón,47,medio,2479,alto,55,medio,estable
-Pimentón,73,alto,3218,alto,54,medio,estable
-Pimentón,53,medio,397,muy bajo,79,alto,riego
-Pimentón,61,medio,1827,medio,58,alto,estable
-Pimentón,25,bajo,1608,bajo,61,alto,riego
-Pimentón,38,bajo,1603,bajo,52,medio,riego
-Pimentón,57,medio,3006,alto,65,alto,estable
-Pimentón,68,alto,2974,alto,58,alto,estable
-Pimentón,65,medio,2880,alto,53,medio,estable
-Pimentón,66,alto,1204,bajo,79,alto,riego
-Pimentón,64,medio,2578,alto,68,alto,estable
-Pimentón,48,medio,1756,medio,62,alto,estable
-Pimentón,62,medio,2190,medio,50,medio,estable
-Pimentón,19,muy bajo,945,bajo,80,alto,riego
-Pimentón,35,bajo,3086,alto,75,alto,estable
-Pimentón,70,alto,1996,medio,73,alto,estable
-Pimentón,68,alto,1709,medio,68,alto,estable
-Pimentón,59,medio,2245,medio,74,alto,estable
-Pimentón,30,bajo,1578,bajo,53,medio,riego
-Pimentón,54,medio,1305,bajo,68,alto,riego
-Pimentón,66,alto,754,muy bajo,65,alto,riego
-Pimentón,67,alto,1912,medio,69,alto,estable
-Pimentón,60,medio,2500,alto,10,muy bajo,estable
-Pimentón,70,alto,1755,medio,53,medio,estable
-Pimentón,69,alto,2076,medio,64,alto,estable
-Pimentón,63,medio,3007,alto,75,alto,estable
-Pimentón,66,alto,2665,alto,60,alto,estable
-Pimentón,23,bajo,2114,medio,53,medio,estable
-Pimentón,64,medio,2720,alto,66,alto,estable
-Pimentón,28,bajo,3024,alto,42,medio,estable
-Pimentón,61,medio,2004,medio,50,medio,estable
-Pimentón,53,medio,3723,muy alto,82,muy alto,alerta exceso humedad
-Pimentón,87,muy alto,1838,medio,87,muy alto,alerta calor
-Pimentón,55,medio,2401,medio,39,medio,estable
-Pimentón,68,alto,3133,alto,88,muy alto,alerta calor
-Pimentón,13,muy bajo,1807,medio,52,medio,estable
-Pimentón,64,medio,1759,medio,62,alto,estable
-Pimentón,27,bajo,1512,bajo,72,alto,riego
-Pimentón,74,alto,2115,medio,65,alto,ventilación
-Pimentón,49,medio,2150,medio,69,alto,estable
-Pimentón,62,medio,3071,alto,68,alto,estable
-Pimentón,22,bajo,657,muy bajo,62,alto,riego
-Pimentón,50,medio,3248,alto,65,alto,estable
-Pimentón,50,medio,2688,alto,80,alto,alerta calor
-Pimentón,45,medio,2303,medio,65,alto,estable
-Pimentón,60,medio,1796,medio,60,alto,estable
-Pimentón,98,muy alto,1157,bajo,87,muy alto,riego
-Pimentón,37,bajo,1314,bajo,84,muy alto,riego
-Pimentón,18,muy bajo,1637,bajo,68,alto,riego
-Pimentón,79,alto,312,muy bajo,45,medio,riego
-Pimentón,45,medio,3519,muy alto,78,alto,alerta exceso humedad
-Pimentón,58,medio,2258,medio,53,medio,estable
-Pimentón,66,alto,2487,alto,63,alto,estable
-Pimentón,55,medio,3225,alto,56,alto,estable
-Pimentón,70,alto,2180,medio,50,medio,estable
-Pimentón,60,medio,3218,alto,70,alto,estable
-Pimentón,46,medio,2163,medio,56,alto,estable
-Pimentón,48,medio,1644,medio,68,alto,estable
-Pimentón,61,medio,3016,alto,76,alto,alerta calor
-Pimentón,65,medio,3187,alto,69,alto,estable
-Pimentón,92,muy alto,970,bajo,82,muy alto,riego
-Pimentón,61,medio,2184,medio,62,alto,estable
-Pimentón,57,medio,1730,medio,58,alto,estable
-Pimentón,71,alto,1685,medio,66,alto,ventilación
-Pimentón,37,bajo,146,muy bajo,56,alto,riego
-Pimentón,65,medio,3155,alto,64,alto,estable
+planta,humedad_aire,humedad_aire_nivel,humedad_suelo,humedad_suelo_nivel,temperatura,temperatura_nivel,luminosidad,luminosidad_nivel,ventilador,ventilador_nivel,rociador,rociador_nivel,recomendacion
+Pimentón,69,medio,47.475,medio,38.96666666666667,alto,58.27777777777778,medio,89.88217958226687,alto,45.000018733572226,medio,alerta temperatura
+Pimentón,51,medio,70.0,alto,38.8,alto,58.99999999999999,medio,89.83389092180226,alto,11.640749095388804,bajo,alerta temperatura
+Pimentón,71,alto,69.89999999999999,alto,38.86666666666667,alto,60.11111111111112,medio,89.85389612319277,alto,11.668619948729944,bajo,alerta temperatura
+Pimentón,66,medio,73.4,alto,39.266666666666666,alto,61.77777777777778,medio,89.95376876747912,alto,10.791690751042994,bajo,alerta temperatura
+Pimentón,52,medio,71.42500000000001,alto,39.16666666666666,alto,62.61111111111111,medio,89.93219379129562,alto,11.260298321936684,bajo,alerta temperatura
+Pimentón,62,medio,69.15,alto,39.06666666666667,alto,63.44444444444445,alto,89.90831406362376,alto,11.88225002481675,bajo,alerta temperatura
+Pimentón,74,alto,63.225,medio,39.4,alto,65.0,alto,89.97881388722828,alto,34.61603366146889,medio,alerta temperatura
+Pimentón,21,bajo,50.64999999999999,medio,38.96666666666667,alto,65.27777777777777,alto,89.88217958226687,alto,45.00000463093679,medio,alerta temperatura
+Pimentón,52,medio,50.975,medio,38.93333333333333,alto,66.22222222222221,alto,89.87300064521501,alto,45.00000770385338,medio,alerta temperatura
+Pimentón,51,medio,79.14999999999999,alto,39.4,alto,68.0,alto,89.97881388722828,alto,9.985325586243688,bajo,alerta temperatura
+Pimentón,54,medio,55.325,medio,39.23333333333333,alto,68.72222222222223,alto,89.94684025679112,alto,45.00001019088191,medio,alerta temperatura
+Pimentón,60,medio,23.575,bajo,39.46666666666667,alto,70.11111111111111,alto,62.20078698436841,medio,86.33428136028341,alto,alerta temperatura
+Pimentón,55,medio,56.875,medio,39.36666666666667,alto,70.94444444444444,alto,89.97296573243311,alto,45.00000905191086,medio,alerta temperatura
+Pimentón,46,medio,73.475,alto,39.0,alto,71.33333333333333,alto,89.89112718854929,alto,10.77541551871765,bajo,alerta temperatura
+Pimentón,55,medio,70.35,alto,39.5,alto,73.16666666666667,alto,89.99469589646465,alto,11.544350604006848,bajo,alerta temperatura
+Pimentón,60,medio,60.575,medio,38.833333333333336,alto,73.05555555555556,alto,89.84400434533903,alto,43.85249969253698,medio,alerta temperatura
+Pimentón,60,medio,44.125,medio,39.06666666666667,alto,74.44444444444446,alto,89.90831406362376,alto,0.0,bajo,alerta temperatura
+Pimentón,15,bajo,30.875000000000004,bajo,39.53333333333333,alto,76.22222222222221,alto,65.69700879402681,medio,84.13874812383816,alto,alerta temperatura
+Pimentón,28,bajo,28.125,bajo,39.6,alto,77.33333333333334,alto,63.8265268788732,medio,85.12833332179268,alto,alerta temperatura
+Pimentón,70,medio,80.525,alto,38.9,alto,77.16666666666666,alto,89.86356412397052,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,12,bajo,53.05,medio,39.53333333333333,alto,79.22222222222221,alto,90.0175420863126,alto,45.00000798442371,medio,alerta temperatura
+Pimentón,86,alto,29.625,bajo,39.333333333333336,alto,58.88888888888889,medio,64.6735051684574,medio,84.60794598660253,alto,alerta temperatura
+Pimentón,52,medio,79.925,alto,39.266666666666666,alto,59.77777777777778,medio,89.95376876747912,alto,9.96695566949923,bajo,alerta temperatura
+Pimentón,79,alto,96.9,alto,40.0,alto,62.0,medio,90.03332004885489,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,84,alto,24.8,bajo,38.8,alto,60.99999999999999,medio,62.229451284282845,medio,86.07543689881072,alto,alerta temperatura
+Pimentón,52,medio,57.6,medio,38.9,alto,62.16666666666666,medio,89.86356412397052,alto,45.000010030070136,medio,alerta temperatura
+Pimentón,69,medio,75.02499999999999,alto,39.3,alto,63.83333333333333,alto,89.96044206314825,alto,10.467507070123538,bajo,alerta temperatura
+Pimentón,25,bajo,43.125,medio,38.6,alto,63.66666666666667,alto,89.76844940186491,alto,0.0,bajo,alerta temperatura
+Pimentón,64,medio,42.35,medio,39.46666666666667,alto,66.11111111111111,alto,89.98970252559965,alto,0.0,bajo,alerta temperatura
+Pimentón,32,medio,33.325,bajo,38.4,alto,65.33333333333333,alto,67.77131111636794,medio,83.13999517737112,alto,alerta temperatura
+Pimentón,73,alto,42.15,medio,39.4,alto,68.0,alto,89.97881388722828,alto,0.0,bajo,alerta temperatura
+Pimentón,41,medio,10.2,bajo,38.96666666666667,alto,68.27777777777777,alto,61.86187413317844,medio,86.69999334667001,alto,alerta temperatura
+Pimentón,64,medio,55.45,medio,39.333333333333336,alto,69.88888888888889,alto,89.96685328328175,alto,45.00001047273144,medio,alerta temperatura
+Pimentón,45,medio,73.725,alto,39.96666666666667,alto,71.94444444444444,alto,90.03298936313521,alto,10.722032093032126,bajo,alerta temperatura
+Pimentón,60,medio,62.5,medio,30.0,medio,56.33333333333333,medio,46.56357437533149,medio,38.22094537029898,medio,estable
+Pimentón,80,alto,66.0,alto,38.96666666666667,alto,72.27777777777777,alto,89.88217958226687,alto,12.85710132004758,bajo,alerta temperatura
+Pimentón,78,alto,55.425,medio,39.266666666666666,alto,73.77777777777777,alto,89.95376876747912,alto,45.00000936622473,medio,alerta temperatura
+Pimentón,98,alto,23.575,bajo,38.43333333333333,alto,73.38888888888889,alto,61.79474027882995,medio,86.33428136028341,alto,alerta temperatura
+Pimentón,53,medio,44.3,medio,38.9,alto,75.16666666666666,alto,89.86356412397052,alto,0.0,bajo,alerta temperatura
+Pimentón,81,alto,97.075,alto,38.7,alto,75.83333333333334,alto,89.80215533007545,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,14,bajo,43.875,medio,38.43333333333333,alto,76.38888888888889,alto,89.75285935324725,alto,0.0,bajo,alerta temperatura
+Pimentón,55,medio,54.7,medio,39.266666666666666,alto,78.77777777777777,alto,89.99630016589327,alto,45.000010084248956,medio,alerta temperatura
+Pimentón,55,medio,74.825,alto,39.0,alto,58.33333333333333,medio,89.89112718854929,alto,10.504013924677155,bajo,alerta temperatura
+Pimentón,67,medio,32.85,bajo,38.6,alto,58.66666666666667,medio,67.30928203055252,medio,83.3410175936132,alto,alerta temperatura
+Pimentón,22,bajo,85.45,alto,39.13333333333333,alto,60.55555555555556,medio,89.92447714289452,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,99,alto,49.075,medio,39.5,alto,62.16666666666667,medio,89.99469589646465,alto,45.00001460963068,medio,alerta temperatura
+Pimentón,91,alto,46.95,medio,39.46666666666667,alto,63.11111111111112,medio,89.98970252559965,alto,45.00003296428638,medio,alerta temperatura
+Pimentón,45,medio,79.825,alto,39.36666666666667,alto,63.94444444444444,alto,89.97296573243311,alto,9.967750241577754,bajo,alerta temperatura
+Pimentón,98,alto,35.025,bajo,39.2,alto,64.66666666666667,alto,70.95934043385031,medio,82.39488043650982,alto,alerta temperatura
+Pimentón,87,alto,57.35,medio,38.66666666666666,alto,64.77777777777777,alto,89.79114712771577,alto,45.000007522102955,medio,alerta temperatura
+Pimentón,68,medio,80.975,alto,38.9,alto,66.16666666666666,alto,89.86356412397052,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,69,medio,79.875,alto,39.03333333333333,alto,67.38888888888889,alto,89.89984118457784,alto,9.96728548283302,bajo,alerta temperatura
+Pimentón,23,bajo,20.3,bajo,39.6,alto,69.33333333333334,alto,61.91148792115455,medio,86.69655257983815,alto,alerta temperatura
+Pimentón,39,medio,77.8,alto,38.73333333333333,alto,68.88888888888889,alto,89.81295099520719,alto,10.078661724558431,bajo,alerta temperatura
+Pimentón,73,alto,74.97500000000001,alto,39.266666666666666,alto,70.77777777777777,alto,89.95376876747912,alto,10.47653753689835,bajo,alerta temperatura
+Pimentón,59,medio,75.85,alto,39.333333333333336,alto,71.88888888888889,alto,89.96685328328175,alto,10.3279973410071,bajo,alerta temperatura
+Pimentón,47,medio,61.975,medio,39.5,alto,73.16666666666667,alto,89.99469589646465,alto,40.16074428608582,medio,alerta temperatura
+Pimentón,73,alto,80.45,alto,39.53333333333333,alto,74.22222222222221,alto,89.99941251075286,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,53,medio,9.925,bajo,38.7,alto,73.83333333333334,alto,61.83090062038689,medio,86.69999334667001,alto,alerta temperatura
+Pimentón,61,medio,45.675,medio,39.4,alto,76.0,alto,89.97881388722828,alto,45.0000458977955,medio,alerta temperatura
+Pimentón,25,bajo,40.2,medio,39.3,alto,76.83333333333333,alto,89.96044206314825,alto,0.0,bajo,alerta temperatura
+Pimentón,38,medio,40.075,medio,39.6,alto,78.33333333333334,alto,90.0080006230454,alto,0.0,bajo,alerta temperatura
+Pimentón,57,medio,75.14999999999999,alto,39.16666666666666,alto,78.61111111111111,alto,89.9861929438399,alto,10.445206836949167,bajo,alerta temperatura
+Pimentón,68,medio,74.35000000000001,alto,39.4,alto,59.0,medio,89.97881388722828,alto,10.594675075324359,bajo,alerta temperatura
+Pimentón,65,medio,72.0,alto,39.56666666666667,alto,60.277777777777786,medio,90.00384937779621,alto,11.116334981846533,bajo,alerta temperatura
+Pimentón,66,medio,30.1,bajo,38.7,alto,59.83333333333334,medio,64.72230912393778,medio,84.4332057687857,alto,alerta temperatura
+Pimentón,64,medio,64.45,alto,39.06666666666667,alto,61.44444444444445,medio,89.90831406362376,alto,23.089595662425722,bajo,alerta temperatura
+Pimentón,48,medio,43.9,medio,39.266666666666666,alto,62.77777777777778,medio,89.95376876747912,alto,0.0,bajo,alerta temperatura
+Pimentón,62,medio,54.75,medio,39.66666666666666,alto,64.44444444444444,alto,90.01535188806471,alto,45.00001027118351,medio,alerta temperatura
+Pimentón,19,bajo,23.625,bajo,38.66666666666666,alto,63.77777777777777,alto,61.88170206438033,medio,86.3248460882945,alto,alerta temperatura
+Pimentón,35,medio,77.14999999999999,alto,38.833333333333336,alto,65.05555555555556,alto,89.84400434533903,alto,10.148061575090379,bajo,alerta temperatura
+Pimentón,70,medio,49.9,medio,38.9,alto,66.16666666666666,alto,89.86356412397052,alto,45.00002381671047,medio,alerta temperatura
+Pimentón,68,medio,42.725,medio,39.06666666666667,alto,67.44444444444446,alto,89.90831406362376,alto,0.0,bajo,alerta temperatura
+Pimentón,59,medio,56.125,medio,38.86666666666667,alto,68.11111111111111,alto,89.85389612319277,alto,45.00001059952396,medio,alerta temperatura
+Pimentón,30,bajo,39.45,bajo,39.56666666666667,alto,70.27777777777779,alto,86.27337041014927,alto,80.29872362805742,alto,alerta temperatura
+Pimentón,54,medio,32.625,bajo,39.06666666666667,alto,70.44444444444446,alto,67.30533010682018,medio,83.43506420934442,alto,alerta temperatura
+Pimentón,66,medio,18.85,bajo,39.16666666666666,alto,71.61111111111111,alto,61.88138174991522,medio,86.69999334667001,alto,alerta temperatura
+Pimentón,67,medio,47.8,medio,39.03333333333333,alto,72.38888888888889,alto,89.89984118457784,alto,45.000010030070136,medio,alerta temperatura
+Pimentón,60,medio,62.5,medio,22.90909090909091,bajo,46.51515151515152,medio,22.30693210776615,bajo,38.22094537029898,medio,alerta temperatura
+Pimentón,70,medio,43.875,medio,39.56666666666667,alto,75.27777777777779,alto,90.00384937779621,alto,0.0,bajo,alerta temperatura
+Pimentón,69,medio,51.9,medio,39.2,alto,75.66666666666667,alto,89.93965914007892,alto,45.00001687230403,medio,alerta temperatura
+Pimentón,63,medio,75.175,alto,38.833333333333336,alto,76.05555555555556,alto,89.84400434533903,alto,10.44079509434482,bajo,alerta temperatura
+Pimentón,66,medio,66.625,alto,39.333333333333336,alto,77.88888888888889,alto,89.96685328328175,alto,12.654676423368514,bajo,alerta temperatura
+Pimentón,23,bajo,52.85,medio,39.56666666666667,alto,79.27777777777779,alto,90.01960112292758,alto,45.00000775630251,medio,alerta temperatura
+Pimentón,64,medio,68.0,alto,39.13333333333333,alto,58.55555555555556,medio,89.92447714289452,alto,12.22448735433764,bajo,alerta temperatura
+Pimentón,28,bajo,75.6,alto,39.93333333333333,alto,60.888888888888886,medio,90.03233180540472,alto,10.368323882836027,bajo,alerta temperatura
+Pimentón,61,medio,50.1,medio,39.66666666666666,alto,61.44444444444444,medio,90.01535188806471,alto,45.00002292536042,medio,alerta temperatura
+Pimentón,53,medio,93.075,alto,38.6,alto,60.66666666666667,medio,89.76844940186491,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,87,alto,45.95,medio,38.43333333333333,alto,61.388888888888886,medio,89.70804868514577,alto,45.00006018235347,medio,alerta temperatura
+Pimentón,55,medio,60.02499999999999,medio,39.0,alto,63.33333333333333,medio,89.89112718854929,alto,44.953092858735445,medio,alerta temperatura
+Pimentón,68,medio,78.325,alto,38.4,alto,63.33333333333333,medio,89.69536132483468,alto,10.03377991214124,bajo,alerta temperatura
+Pimentón,13,bajo,45.175,medio,39.6,alto,66.33333333333334,alto,90.0080006230454,alto,45.00071901496279,medio,alerta temperatura
+Pimentón,64,medio,43.975,medio,39.266666666666666,alto,66.77777777777777,alto,89.95376876747912,alto,0.0,bajo,alerta temperatura
+Pimentón,27,bajo,37.8,bajo,38.93333333333333,alto,67.22222222222221,alto,78.19660489138587,alto,81.1036867058935,alto,alerta temperatura
+Pimentón,74,alto,52.87500000000001,medio,39.16666666666666,alto,68.61111111111111,alto,89.93219379129562,alto,45.00001114465325,medio,alerta temperatura
+Pimentón,49,medio,53.75,medio,39.03333333333333,alto,69.38888888888889,alto,89.89984118457784,alto,45.00001129480562,medio,alerta temperatura
+Pimentón,62,medio,76.775,alto,39.06666666666667,alto,70.44444444444446,alto,89.90831406362376,alto,10.19458265603058,bajo,alerta temperatura
+Pimentón,22,bajo,16.425,bajo,39.266666666666666,alto,71.77777777777777,alto,61.8898399018226,medio,86.69999334667001,alto,alerta temperatura
+Pimentón,50,medio,81.2,alto,39.16666666666666,alto,72.61111111111111,alto,89.93219379129562,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,50,medio,67.2,alto,38.66666666666666,alto,72.77777777777777,alto,89.79114712771577,alto,12.472167516176919,bajo,alerta temperatura
+Pimentón,45,medio,57.575,medio,39.16666666666666,alto,74.61111111111111,alto,89.93219379129562,alto,45.00001415926143,medio,alerta temperatura
+Pimentón,60,medio,44.9,medio,39.333333333333336,alto,75.88888888888889,alto,89.96685328328175,alto,0.0,bajo,alerta temperatura
+Pimentón,98,alto,28.925,bajo,38.43333333333333,alto,75.38888888888889,alto,63.752281575374795,medio,84.85697312884159,alto,alerta temperatura
+Pimentón,37,medio,32.85,bajo,38.53333333333333,alto,76.55555555555556,alto,67.32430685217484,medio,83.3410175936132,alto,alerta temperatura
+Pimentón,18,bajo,40.925,medio,39.06666666666667,alto,78.44444444444446,alto,89.97494601122928,alto,0.0,bajo,alerta temperatura
+Pimentón,79,alto,7.8,bajo,39.833333333333336,alto,59.72222222222223,medio,61.92010987241697,medio,86.69999334667001,alto,alerta temperatura
+Pimentón,45,medio,87.97500000000001,alto,38.73333333333333,alto,58.888888888888886,medio,89.81295099520719,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,58,medio,56.45,medio,39.56666666666667,alto,61.277777777777786,medio,90.00384937779621,alto,45.000011506896705,medio,alerta temperatura
+Pimentón,66,medio,62.175,medio,39.23333333333333,alto,61.72222222222223,medio,89.94684025679112,alto,39.471541613877086,medio,alerta temperatura
+Pimentón,55,medio,80.625,alto,39.46666666666667,alto,63.11111111111112,medio,89.98970252559965,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,70,medio,54.50000000000001,medio,39.66666666666666,alto,64.44444444444444,alto,90.01535188806471,alto,45.000010245218675,medio,alerta temperatura
+Pimentón,60,medio,80.45,alto,39.0,alto,64.33333333333333,alto,89.89112718854929,alto,9.966679951145109,bajo,alerta temperatura
+Pimentón,46,medio,54.075,medio,39.46666666666667,alto,66.11111111111111,alto,89.98970252559965,alto,45.00001049590138,medio,alerta temperatura
+Pimentón,48,medio,41.1,medio,39.06666666666667,alto,66.44444444444446,alto,89.90831406362376,alto,0.0,bajo,alerta temperatura
+Pimentón,61,medio,75.4,alto,38.8,alto,67.0,alto,89.83389092180226,alto,10.401824355421889,bajo,alerta temperatura
+Pimentón,65,medio,79.675,alto,39.03333333333333,alto,68.38888888888889,alto,89.89984118457784,alto,9.969813574290415,bajo,alerta temperatura
+Pimentón,92,alto,24.25,bajo,38.6,alto,68.66666666666667,alto,61.97683131349399,medio,86.19861296534219,alto,alerta temperatura
+Pimentón,61,medio,54.6,medio,39.266666666666666,alto,70.77777777777777,alto,89.95376876747912,alto,45.00001003007015,medio,alerta temperatura
+Pimentón,57,medio,43.25,medio,39.4,alto,72.0,alto,89.97881388722828,alto,0.0,bajo,alerta temperatura
+Pimentón,71,alto,42.125,medio,39.13333333333333,alto,72.55555555555556,alto,89.92447714289452,alto,0.0,bajo,alerta temperatura
+Pimentón,37,medio,3.65,bajo,39.46666666666667,alto,74.11111111111111,alto,61.90410212054896,medio,86.69999334667001,alto,alerta temperatura
+Pimentón,65,medio,78.875,alto,39.2,alto,74.66666666666667,alto,89.93965914007892,alto,9.99832395040351,bajo,alerta temperatura
