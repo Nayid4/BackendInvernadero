@@ -22,7 +22,7 @@ CRISP = {
 }
 
 class FuzzyActuatorsControl:
-    def __init__(self, profile, crisp):
+    def __init__(self,  crisp):
         # Temperatura -> Ventilador (1/2/3)
         self.FS_temp_vent = FuzzySystem()
         tmin, tmax = crisp['temp_range']

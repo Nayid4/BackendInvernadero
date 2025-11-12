@@ -19,3 +19,7 @@ import application.plantas.queries.get_planta_by_id.handler
 
 import application.controles.queries.consultar_control.handler
 import application.controles.queries.get_historico.handler
+import application.controles.queries.control_automatico_dataset.handler
+import application.controles.queries.consultar_ultimo_control.handler
+import application.controles.queries.consultar_ultimo_historico.handler
+import application.controles.queries.consultar_historico_por_planta.handler
