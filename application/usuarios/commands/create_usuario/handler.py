@@ -8,6 +8,10 @@ import uuid
 @Mediator.handler
 class CreateUsuarioHandler:
     def handle(self, request: CreateUsuarioDTO):
+        repo = UsuarioRepository()
+        existente = repo.obtener_usuario_por_correo(request.correo)
+        if existente:
+            raise Exception("Ya existe un usuario registrado con este correo.")
         usuario_id = str(uuid.uuid4())
         usuario = Usuario(
             id=usuario_id,
@@ -18,6 +22,5 @@ class CreateUsuarioHandler:
             correo=request.correo,
             contrasena_hash=generate_password_hash(request.contrasena)
         )
-        repo = UsuarioRepository()
         repo.guardar_usuario(usuario)
         return {"id": usuario_id}

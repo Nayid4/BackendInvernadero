@@ -23,3 +23,22 @@ import application.controles.queries.control_automatico_dataset.handler
 import application.controles.queries.consultar_ultimo_control.handler
 import application.controles.queries.consultar_ultimo_historico.handler
 import application.controles.queries.consultar_historico_por_planta.handler
+
+import application.plantas.queries.consultar_optimos_planta.handler
+import application.plantas.commands.update_optimos_planta.handler
+import application.plantas.commands.create_optimos_planta.handler
+
+import application.plantas.queries.consultar_optimos_planta.handler
+import application.controles_planta.consultar_historico_por_id_planta.handler
+import application.controles_planta.consultar_ultimo_historico_por_id_planta.handler
+import application.controles_planta.consultar_control_por_id_planta.handler
+import application.controles_planta.consultar_ultimo_control_por_id_planta.handler
+import application.controles_planta.control_automatico_dataset_por_id_planta.handler
+
+import application.datasets.commands.upload_dataset.handler
+import application.datasets.queries.listar_datasets.handler
+import application.datasets.queries.download_dataset.handler    
+import application.datasets.commands.delete_dataset.handler
+
+import application.control_circuito.commands.cambiar_modo_por_id_planta.handler
+import application.control_circuito.quieries.consultar_modo_por_id_planta.handler

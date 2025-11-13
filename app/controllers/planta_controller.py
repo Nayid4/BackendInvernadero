@@ -40,7 +40,7 @@ def get_by_id(id):
                 detail="No existe una planta con ese ID"
             )
         )
-    return jsonify(result), 200
+    return jsonify(result.to_dict()), 200
 
 @planta_bp.route('/<id>', methods=['PUT'])
 @jwt_required()

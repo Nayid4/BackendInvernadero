@@ -7,15 +7,24 @@ class PlantaRepository:
     COLLECTION_NAME = "plantas"
 
     def guardar_planta(self, planta: Planta):
-        # Si la planta no tiene id, asigna uno (para POST)
         planta_id = planta.id or str(uuid.uuid4())
         ref = db.collection(self.COLLECTION_NAME).document(planta_id)
         ref.set({
             "id": planta_id,
             "nombre": planta.nombre,
-            "especie": planta.especie,
             "fecha_siembra": planta.fecha_siembra,
-            "ubicacion": planta.ubicacion
+        })
+        if planta.id is None:
+            planta.id = planta_id  # Asigna el id generado de vuelta al objeto
+
+
+    def actualizar_planta(self, planta: Planta):
+        if not planta.id:
+            raise Exception("No se puede actualizar: falta id.")
+        ref = db.collection(self.COLLECTION_NAME).document(planta.id)
+        ref.update({
+            "nombre": planta.nombre,
+            "fecha_siembra": planta.fecha_siembra,
         })
 
     def obtener_planta_por_id(self, planta_id: str) -> Optional[Planta]:
@@ -25,9 +34,7 @@ class PlantaRepository:
             return Planta(
                 id=data['id'],
                 nombre=data['nombre'],
-                especie=data['especie'],
                 fecha_siembra=data['fecha_siembra'],
-                ubicacion=data['ubicacion']
             )
         return None
 
@@ -42,8 +49,6 @@ class PlantaRepository:
             plantas.append({
                 "id": data.get('id'),
                 "nombre": data.get('nombre'),
-                "especie": data.get('especie'),
                 "fecha_siembra": data.get('fecha_siembra'),
-                "ubicacion": data.get('ubicacion')
             })
         return plantas
