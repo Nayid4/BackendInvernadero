@@ -34,6 +34,7 @@ import application.controles_planta.consultar_ultimo_historico_por_id_planta.han
 import application.controles_planta.consultar_control_por_id_planta.handler
 import application.controles_planta.consultar_ultimo_control_por_id_planta.handler
 import application.controles_planta.control_automatico_dataset_por_id_planta.handler
+import application.controles_planta.alerta_control_por_id_planta.handler
 
 import application.datasets.commands.upload_dataset.handler
 import application.datasets.queries.listar_datasets.handler
