@@ -13,8 +13,10 @@ import application.usuarios.queries.login.handler
 import application.plantas.commands.create_planta.handler
 import application.plantas.commands.update_planta.handler
 import application.plantas.commands.delete_planta.handler
+import application.plantas.commands.cambiar_estado_planta.handler
 import application.plantas.queries.get_all_plantas.handler
 import application.plantas.queries.get_planta_by_id.handler
+import application.plantas.queries.consultar_planta_activa.handler
 # Si tienes más handlers, agrégalos aquí
 
 import application.controles.queries.consultar_control.handler

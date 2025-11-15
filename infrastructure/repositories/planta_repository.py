@@ -13,10 +13,10 @@ class PlantaRepository:
             "id": planta_id,
             "nombre": planta.nombre,
             "fecha_siembra": planta.fecha_siembra,
+            "estado": planta.estado,
         })
         if planta.id is None:
-            planta.id = planta_id  # Asigna el id generado de vuelta al objeto
-
+            planta.id = planta_id
 
     def actualizar_planta(self, planta: Planta):
         if not planta.id:
@@ -25,6 +25,7 @@ class PlantaRepository:
         ref.update({
             "nombre": planta.nombre,
             "fecha_siembra": planta.fecha_siembra,
+            "estado": planta.estado,
         })
 
     def obtener_planta_por_id(self, planta_id: str) -> Optional[Planta]:
@@ -35,11 +36,9 @@ class PlantaRepository:
                 id=data['id'],
                 nombre=data['nombre'],
                 fecha_siembra=data['fecha_siembra'],
+                estado=data.get('estado', 'Desactivo'),
             )
         return None
-
-    def eliminar_planta(self, planta_id: str):
-        db.collection(self.COLLECTION_NAME).document(planta_id).delete()
 
     def obtener_todas_las_plantas(self) -> List[dict]:
         docs = db.collection(self.COLLECTION_NAME).stream()
@@ -50,5 +49,18 @@ class PlantaRepository:
                 "id": data.get('id'),
                 "nombre": data.get('nombre'),
                 "fecha_siembra": data.get('fecha_siembra'),
+                "estado": data.get('estado', 'Desactivo'),
             })
         return plantas
+
+    def obtener_planta_activa(self) -> Optional[Planta]:
+        docs = db.collection(self.COLLECTION_NAME).where("estado", "==", "Activo").stream()
+        for doc in docs:
+            data = doc.to_dict()
+            return Planta(
+                id=data['id'],
+                nombre=data['nombre'],
+                fecha_siembra=data['fecha_siembra'],
+                estado=data['estado'],
+            )
+        return None

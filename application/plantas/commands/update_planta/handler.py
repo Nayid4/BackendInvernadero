@@ -20,5 +20,15 @@ class UpdatePlantaHandler:
             planta.nombre = request.nombre
         if request.fecha_siembra:
             planta.fecha_siembra = request.fecha_siembra
+        if hasattr(request, "estado") and request.estado is not None:
+            if request.estado not in ["Activo", "Desactivo"]:
+                raise Exception("El estado solo puede ser 'Activo' o 'Desactivo'.")
+            if request.estado == "Activo":
+                otra = repo.obtener_planta_activa()
+                if otra and otra.id != planta.id:
+                    raise Exception("Ya hay una planta activa, primero desactívela.")
+                planta.estado = "Activo"
+            else:
+                planta.estado = "Desactivo"
         repo.actualizar_planta(planta)
         return {"success": True}
