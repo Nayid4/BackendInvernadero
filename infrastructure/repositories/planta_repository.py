@@ -64,3 +64,6 @@ class PlantaRepository:
                 estado=data['estado'],
             )
         return None
+
+    def eliminar_planta(self, planta_id: str):
+        db.collection(self.COLLECTION_NAME).document(planta_id).delete()
