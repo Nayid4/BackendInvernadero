@@ -16,6 +16,7 @@ import mediator_handlers_init
 from flask import Flask
 from flask_jwt_extended import JWTManager
 from flask_problem_details import configure_app
+from flask_cors import CORS
 from app.controllers.usuario_controller import usuario_bp
 from app.controllers.planta_controller import planta_bp
 from app.controllers.planta_optimo_controller import planta_optimos_bp
@@ -34,6 +35,7 @@ app.config["JWT_REFRESH_TOKEN_EXPIRES"] = datetime.timedelta(days=160)
 
 jwt = JWTManager(app)
 configure_app(app)  # Esto registra el middleware para ProblemDetails RFC 7807
+CORS(app)  # Habilita CORS para la aplicación Flask
 
 app.register_blueprint(usuario_bp, url_prefix='/users')
 app.register_blueprint(planta_bp, url_prefix='/plantas')

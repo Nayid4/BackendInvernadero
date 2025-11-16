@@ -11,3 +11,4 @@ Werkzeug
 numpy
 setuptools
 wheel
+flask-cors
