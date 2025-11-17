@@ -1,0 +1,2 @@
+class GetOptimosDatasetTodasDTO:
+    pass

@@ -38,6 +38,9 @@ def control_por_id():
                 )
             )
         return jsonify(result), 200
+    except ProblemDetailsError as e:  # <--- ATENCIÓN AQUÍ
+        # Propaga el error ProblemDetails tal cual fue lanzado
+        raise e
     except Exception as e:
         raise ProblemDetailsError(
             ProblemDetails(
@@ -46,6 +49,7 @@ def control_por_id():
                 detail=str(e)
             )
         )
+
 
     
 @control_planta_bp.route('/control-automatico-dataset-por-id-planta', methods=['POST'])

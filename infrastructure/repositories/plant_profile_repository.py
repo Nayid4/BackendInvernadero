@@ -1,17 +1,21 @@
 import os
 import glob
 import csv
-from statistics import mean
+import math
 
 class PlantDatasetRepository:
     """
     Lee y procesa datos de múltiples archivos CSV por planta.
+    Además, calcula:
+    - universe_of_discourse: min-max completo de cada variable
+    - valores óptimos: rango del percentil 25-75 para cada variable
     """
+
     def get_plant_profile(self, planta: str):
         base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # .../infrastructure
         data_dir = os.path.join(base_dir, "data")
 
-        # Incluye archivos "pimenton.csv", "pimenton_*.csv" y similares
+        # Archivos que pueden contener datos de la planta
         plant_variants = [planta.lower(), planta.capitalize(), planta]
         files = set()
         for prefix in plant_variants:
@@ -45,24 +49,52 @@ class PlantDatasetRepository:
         if not all_data:
             raise ValueError(f"No se pudieron cargar datos válidos para la planta '{planta}'.")
 
-        def col_values(col): return [d[col] for d in all_data]
+        def col_values(col):
+            return [d[col] for d in all_data]
+
+        # Función para calcular percentil sin librerías externas
+        def percentil_manual(lst, pct):
+            lst_sorted = sorted(lst)
+            k = int(math.ceil(pct * len(lst))) - 1
+            return lst_sorted[max(0, min(k, len(lst)-1))]
+
+        # Calcular rango óptimo basado en percentiles 25 y 75
+        def calcular_rango_optimo(lst):
+            p25 = percentil_manual(lst, 0.25)
+            p75 = percentil_manual(lst, 0.75)
+            return (round(p25, 2), round(p75, 2))
+
+        # Obtener listas de valores para las variables
+        temp_values = col_values('temperatura')
+        hum_aire_values = col_values('humedad_aire')
+        hum_suelo_values = col_values('humedad_suelo')
+        luz_values = col_values('luminosidad')
 
         perfil = {
             "centroide": {
-                "temperatura": mean(col_values('temperatura')),
-                "humedad_aire": mean(col_values('humedad_aire')),
-                "humedad_suelo": mean(col_values('humedad_suelo')),
-                "luminosidad": mean(col_values('luminosidad')),
-                "ventilador": mean(col_values('ventilador')),
-                "rociador": mean(col_values('rociador')),
+                "temperatura": sum(temp_values) / len(temp_values),
+                "humedad_aire": sum(hum_aire_values) / len(hum_aire_values),
+                "humedad_suelo": sum(hum_suelo_values) / len(hum_suelo_values),
+                "luminosidad": sum(luz_values) / len(luz_values),
+                "ventilador": sum(col_values('ventilador')) / len(all_data),
+                "rociador": sum(col_values('rociador')) / len(all_data),
             },
-            "temp_range": (min(col_values('temperatura')), max(col_values('temperatura'))),
-            "hum_aire_range": (min(col_values('humedad_aire')), max(col_values('humedad_aire'))),
-            "hum_suelo_range": (min(col_values('humedad_suelo')), max(col_values('humedad_suelo'))),
-            "luminosidad_range": (min(col_values('luminosidad')), max(col_values('luminosidad'))),
-            "ventilador_range": (min(col_values('ventilador')), max(col_values('ventilador'))),
-            "rociador_range": (min(col_values('rociador')), max(col_values('rociador'))),
+            # Total range para cada variable: universe_of_discourse
+            "universe_of_discourse": {
+                "temp_range": (min(temp_values), max(temp_values)),
+                "hum_aire_range": (min(hum_aire_values), max(hum_aire_values)),
+                "hum_suelo_range": (min(hum_suelo_values), max(hum_suelo_values)),
+                "luminosidad_range": (min(luz_values), max(luz_values))
+            },
+            # Rango óptimo calculado con percentiles 25-75
+            "optimos_range": {
+                "temp_range": calcular_rango_optimo(temp_values),
+                "hum_aire_range": calcular_rango_optimo(hum_aire_values),
+                "hum_suelo_range": calcular_rango_optimo(hum_suelo_values),
+                "luminosidad_range": calcular_rango_optimo(luz_values)
+            },
             "archivos": list(files),
-            "datos": all_data  # puedes remover esto si solo quieres medidas agregadas
+            "datos": all_data  # Puedes remover si solo quieres datos agregados
         }
+
         return perfil

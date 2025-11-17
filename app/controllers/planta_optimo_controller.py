@@ -6,6 +6,8 @@ from mediatr import Mediator
 
 from application.plantas.commands.create_optimos_planta.dto import CreateOptimosPlantaDTO
 from application.plantas.commands.update_optimos_planta.dto import UpdateOptimosPlantaDTO
+from application.plantas.queries.consultar_optimos_dataset_planta.dto import GetOptimosDatasetPlantaDTO
+from application.plantas.queries.consultar_optimos_dataset_todas.dto import GetOptimosDatasetTodasDTO
 from application.plantas.queries.consultar_optimos_planta.dto import GetOptimosPlantaDTO
 
 planta_optimos_bp = Blueprint('planta_optimos', __name__)
@@ -68,6 +70,43 @@ def get_optimos_by_id(idPlanta):
             ProblemDetails(
                 status=404,
                 title="Valores óptimos no encontrados",
+                detail=str(e)
+            )
+        )
+
+
+@planta_optimos_bp.route('/optimos-dataset', methods=['GET'])
+@jwt_required()
+def get_optimos_dataset_all():
+    try:
+        dto = GetOptimosDatasetTodasDTO()
+        datos = Mediator.send(dto)
+        return jsonify(datos), 200
+    except Exception as e:
+        raise ProblemDetailsError(
+            ProblemDetails(
+                status=400,
+                title="Error al consultar óptimos del dataset",
+                detail=str(e)
+            )
+        )
+
+@planta_optimos_bp.route('/optimos-dataset', methods=['POST'])
+@jwt_required()
+def get_optimos_dataset_planta():
+    try:
+        datos_req = request.get_json()
+        planta = datos_req.get("planta")
+        if not planta:
+            raise Exception("Debe especificar el nombre de la planta en el cuerpo de la solicitud.")
+        dto = GetOptimosDatasetPlantaDTO(planta)
+        datos = Mediator.send(dto)
+        return jsonify(datos), 200
+    except Exception as e:
+        raise ProblemDetailsError(
+            ProblemDetails(
+                status=404,
+                title="Óptimos no encontrados en dataset",
                 detail=str(e)
             )
         )
